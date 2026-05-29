@@ -5058,6 +5058,26 @@ IVs: 0 Atk / 30 Def
 - Hidden Power [Ice]  
 - Flamethrower  
 
+Darmanitan @ Heavy-Duty Boots  
+Ability: Zen Mode  
+Level: 84  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD  
+IVs: 0 Atk / 30 Def / 0 Spe 
+- Trick Room 
+- Psychic  
+- Teleport
+- Flamethrower  
+
+Darmanitan @ Life Orb  
+Ability: Zen Mode  
+Level: 84  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD  
+IVs: 0 Atk / 30 Def / 0 Spe 
+- Trick Room 
+- Psychic  
+- Grass Knot
+- Flamethrower 
+
 Darmanitan-Galar @ Choice Scarf  
 Ability: Gorilla Tactics  
 Level: 76  
@@ -5102,6 +5122,33 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Substitute  
 - Flare Blitz  
 - Ice Hammer  
+
+Darmanitan-Galar @ Heavy-Duty Boots  
+Ability: Zen Mode  
+Level: 76  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Earthquake  
+- U-turn 
+- Flare Blitz  
+- Ice Hammer  
+
+Darmanitan-Galar @ Choice Band
+Ability: Zen Mode  
+Level: 76  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Earthquake  
+- U-turn 
+- Flare Blitz  
+- Ice Hammer  
+
+Darmanitan-Galar @ Choice Scarf
+Ability: Zen Mode  
+Level: 76  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Earthquake  
+- U-turn 
+- Flare Blitz  
+- Ice Hammer
 
 === [gen8rrdl-box] RandBats Boxes/Decidueye ===  
 Ability: No Ability  
