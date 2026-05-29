@@ -3971,7 +3971,17 @@ Ability: Magic Guard
 Level: 80  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
-- Moonblast  
+- Moonblast
+- Soft-Boiled  
+- Calm Mind  
+- Flamethrower  
+
+Clefable @ Life Orb  
+Ability: Magic Guard  
+Level: 80  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Light Of Ruin
 - Soft-Boiled  
 - Calm Mind  
 - Flamethrower  
@@ -3982,6 +3992,16 @@ Level: 80
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Moonblast  
+- Soft-Boiled  
+- Calm Mind  
+- Thunderbolt  
+
+Clefable @ Life Orb  
+Ability: Magic Guard  
+Level: 80  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Light Of Ruin 
 - Soft-Boiled  
 - Calm Mind  
 - Thunderbolt  
@@ -6984,6 +7004,15 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Ice Punch  
 - Pain Split  
 
+Dusknoir @ Leftovers 
+Ability: Pressure 
+Level: 88  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Poltergeist  
+- Substitute 
+- Toxic 
+- Pain Split  
+
 === [gen8rrdl] RandBats Boxes/Dustox ===  
 Ability: No Ability  
 Dustox @ Black Sludge  
@@ -6995,6 +7024,16 @@ IVs: 0 Atk
 - Roost  
 - Bug Buzz  
 - Iron Defense  
+
+Dustox @ Black Sludge  
+Ability: Shield Dust  
+Level: 88  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Quiver Dance  
+- Roost  
+- Bug Buzz  
+- Sludge Bomb
 
 Dustox @ Black Sludge  
 Ability: Shield Dust  
@@ -7049,10 +7088,19 @@ Eelektross @ Assault Vest
 Ability: Levitate  
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Volt Switch  
+- Volt Switch 
 - Giga Drain  
 - Fire Blast  
 - Superpower  
+
+Eelektross @ Assault Vest  
+Ability: Levitate  
+Level: 88  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Thunderbolt 
+- Giga Drain  
+- Fire Blast  
+- U-turn  
 
 Eelektross @ Assault Vest  
 Ability: Levitate  
@@ -7146,6 +7194,15 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Ice Punch  
 - Volt Switch  
 
+Electivire @ Choice Scarf  
+Ability: Iron Fist  
+Level: 80  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Plasma Fists  
+- Close Combat  
+- Ice Punch  
+- Volt Switch
+
 Electivire @ Life Orb  
 Ability: Iron Fist  
 Level: 80  
@@ -7164,6 +7221,24 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Ice Punch  
 - Mach Punch  
 
+Electivire @ Electirizer  
+Ability: Iron Fist  
+Level: 80  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Plasma Fists  
+- Close Combat  
+- Ice Punch  
+- Mach Punch  
+
+Electivire @ Electirizer  
+Ability: Iron Fist  
+Level: 80  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Plasma Fists  
+- Drain Punch  
+- Bulk Up 
+- Mach Punch  
+
 === [gen8rrdl] RandBats Boxes/Electrode ===  
 Ability: No Ability  
 Electrode @ Life Orb  
@@ -7177,12 +7252,23 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Electrode-Hisui @ Heavy-Duty Boots  
 Ability: Reckless  
+Level: 88 
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Thunderbolt  
 - Chloroblast  
 - Volt Switch  
 - Court Change  
+
+Electrode-Hisui @ Leftovers  
+Ability: Soundproof
+Level: 88 
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Leech Seed 
+- Substitute 
+- Protect 
+- Discharge 
 
 === [gen8rrdl] RandBats Boxes/Emboar ===  
 Ability: No Ability  
@@ -7222,6 +7308,24 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Wild Charge  
 - Sucker Punch  
 
+Emboar @ Leftovers 
+Ability: Reckless  
+Level: 84  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Flare Blitz  
+- Bulk Up  
+- Jump Kick 
+- Sucker Punch  
+
+Emboar @ Choice Scarf 
+Ability: Reckless  
+Level: 84  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Flare Blitz  
+- Wild Charge  
+- Jump Kick 
+- Earthquake
+
 === [gen8rrdl] RandBats Boxes/Emolga ===  
 Ability: Motor Drive  
 Level: 88  
@@ -7230,6 +7334,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Volt Switch  
 - Knock Off  
 - Defog  
+
 Emolga @ Heavy-Duty Boots  
 Ability: Motor Drive  
 Level: 88  
@@ -7257,7 +7362,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Roost  
 - Defog  
 - Scald  
-- Knock Off  
+- Knock Off 
 
 Empoleon @ Leftovers  
 Ability: Competitive  
@@ -7311,10 +7416,10 @@ Ability: Competitive
 Level: 84  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
-- Roost  
-- Calm Mind  
+- Ice Beam
+- Nasty Plot  
 - Scald  
-- Substitute  
+- Make It Rain
 
 Empoleon @ Leftovers  
 Ability: Competitive  
@@ -7334,7 +7439,17 @@ IVs: 0 Atk
 - Roost  
 - Nasty Plot  
 - Scald  
-- Flash Cannon  
+- Make It Rain 
+
+Empoleon @ Choice Specs  
+Ability: Competitive  
+Level: 84  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Flip Turn
+- Ice Beam 
+- Hydro Pump  
+- Make It Rain 
 
 === [gen8rrdl] RandBats Boxes/Entei ===  
 Ability: No Ability  
@@ -7496,6 +7611,26 @@ IVs: 0 Atk
 - Toxic Spikes  
 - Flamethrower  
 
+Eternatus @ Eternamax Orb
+Ability: Pressure  
+Level: 65 
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Recover  
+- Dynamax Cannon  
+- Toxic Spikes  
+- Flamethrower 
+
+Eternatus @ Eternamax Orb
+Ability: Pressure  
+Level: 65 
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Recover  
+- Dynamax Cannon  
+- Sludge Wave
+- Flamethrower 
+
 === [gen8rrdl] RandBats Boxes/Excadrill ===  
 Ability: No Ability  
 Excadrill @ Leftovers  
@@ -7578,7 +7713,7 @@ Exeggutor @ Sitrus Berry
 Ability: Harvest  
 Level: 88  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 0 Atk / 0 Spe  
+IVs: 0 Atk
 - Substitute  
 - Leech Seed  
 - Sleep Powder  
@@ -7598,7 +7733,7 @@ Exeggutor-Alola @ Life Orb
 Ability: Frisk  
 Level: 88  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 0 Atk  
+IVs: 0 Atk / 0 Spe
 - Trick Room  
 - Draco Meteor  
 - Giga Drain  
@@ -7636,6 +7771,26 @@ IVs: 0 Atk
 - Focus Blast  
 - Ice Beam  
 
+Exploud @ Choice Scarf  
+Ability: Punk Rock  
+Level: 88  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Boomburst  
+- Overheat  
+- Focus Blast  
+- Ice Beam  
+
+Exploud @ Choice Scarf  
+Ability: Punk Rock  
+Level: 88  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Boomburst  
+- Overheat  
+- Focus Blast  
+- Surf 
+
 === [gen8rrdl] RandBats Boxes/Falinks ===  
 Ability: No Ability  
 Falinks @ Life Orb  
@@ -7651,7 +7806,7 @@ Falinks @ Life Orb
 Ability: Defiant  
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Swords Dance  
+- No Retreat 
 - Close Combat  
 - Megahorn  
 - Poison Jab  
@@ -7668,7 +7823,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 === [gen8rrdl] RandBats Boxes/Farfetch'd ===  
 Ability: No Ability  
 Farfetch’d @ Leek Stick  
-Ability: Blademaster  
+Ability: Sharpness  
 Level: 90  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 Serious Nature  
@@ -7676,6 +7831,17 @@ Serious Nature
 - Drill Peck  
 - Sacred Sword  
 - Night Slash  
+
+Farfetch’d @ Leek Stick  
+Ability: Sharpness  
+Level: 90  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+Serious Nature  
+- Swords Dance  
+- Brave Bird  
+- Sacred Sword  
+- Night Slash  
+
 === [gen8rrdl] RandBats Boxes/Fearow ===  
 Ability: No Ability  
 Fearow @ Choice Band  
@@ -7832,6 +7998,16 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Knock Off  
 - Body Press  
 
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+Level: 80  
+IVs: 0 Spe
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Curse  
+- Power Whip  
+- Knock Off  
+- Gyro Ball  
+
 === [gen8rrdl] RandBats Boxes/Flapple ===  
 Ability: No Ability  
 IVs: 0 Atk  
@@ -7920,6 +8096,15 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Quick Attack  
 - Superpower  
 
+Flareon @ Toxic Orb  
+Ability: Toxic Boost  
+Level: 86  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Sacred Fire  
+- Facade  
+- Stomping Tantrum 
+- Trailblaze 
+
 === [gen8rrdl] RandBats Boxes/Floatzel ===  
 Ability: No Ability  
 Floatzel @ Leftovers  
@@ -7928,7 +8113,7 @@ Level: 88
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Substitute  
 - Surging Strikes  
-- Focus Punch  
+- Rock Smash
 - Bulk Up  
 
 Floatzel @ Protective Pads  
@@ -7966,7 +8151,7 @@ Level: 86
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Moonblast  
-- Wish  
+- Calm Mind 
 - Synthesis  
 - Aromatherapy  
 
@@ -8045,7 +8230,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Dragon Dance  
 - Roost  
 - Earthquake  
-- Outrage  
+- Draco Barrage 
 
 Flygon @ Life Orb  
 Ability: Tinted Lens  
@@ -8074,6 +8259,18 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Roost  
 - Fire Blast  
 
+Flygon @ Life Orb  
+Ability: Compound Eyes  
+Level: 84  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk
+- Draco Barrage
+- Sandsear Storm 
+- Roost  
+- Fire Blast  
+
+=== [gen8rrdl-box] RandBats Boxes/Forretress ===  
+Ability: No Ability  
 Forretress @ Leftovers  
 Ability: Sturdy  
 Level: 88  
@@ -8136,7 +8333,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 === [gen8rrdl] RandBats Boxes/Froslass ===  
 Ability: No Ability  
 Froslass @ Focus Sash  
-Ability: Cursed Body  
+Ability: Stakeout  
 Level: 86  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
@@ -8146,7 +8343,7 @@ IVs: 0 Atk
 - Icy Wind  
 
 Froslass @ Choice Band  
-Ability: Cursed Body  
+Ability: Stakeout  
 Level: 86  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Poltergeist  
@@ -8155,7 +8352,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Ice Shard  
 
 Froslass @ Choice Band  
-Ability: Cursed Body  
+Ability: Stakeout
 Level: 86  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Poltergeist  
@@ -8163,8 +8360,28 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Switcheroo  
 - Spikes  
 
+Froslass @ Choice Specs 
+Ability: Stakeout
+Level: 86  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe 
+IVs: 0 Atk
+- Shadow Ball  
+- Freeze Dry 
+- Switcheroo  
+- Thunderbolt
+
+Froslass @ Choice Specs 
+Ability: Stakeout
+Level: 86  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe 
+IVs: 0 Atk
+- Shadow Ball  
+- Freeze Dry 
+- Switcheroo  
+- Spikes
+
 Froslass @ Heavy-Duty Boots  
-Ability: Cursed Body  
+Ability: Stakeout 
 Level: 86  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Poltergeist  
@@ -8173,7 +8390,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Spikes  
 
 Froslass @ Heavy-Duty Boots  
-Ability: Cursed Body  
+Ability: Stakeout
 Level: 86  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Poltergeist  
@@ -8182,7 +8399,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Spikes  
 
 Froslass @ Heavy-Duty Boots  
-Ability: Cursed Body  
+Ability: Stakeout 
 Level: 86  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Poltergeist  
@@ -8199,18 +8416,48 @@ EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe
 IVs: 0 Atk  
 - Quiver Dance  
 - Bug Buzz  
-- Frost Breath  
+- Ice Beam
 - Giga Drain  
 
 Frosmoth @ Leftovers  
 Ability: Shield Dust  
 Level: 88  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 0 Atk  
+IVs: 1 Atk / 30SpA
 - Quiver Dance  
 - Bug Buzz  
-- Frost Breath  
-- Hurricane  
+- Ice Beam 
+- Hidden Power [Electric] 
+
+Frosmoth @ Leftovers  
+Ability: Shield Dust  
+Level: 88  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 1 Atk / 30SpA / 30 SpD 
+- Quiver Dance  
+- Bug Buzz  
+- Ice Beam 
+- Hidden Power [Ground] 
+
+Frosmoth @ Heavy-Duty Boots 
+Ability: Ice Scales
+Level: 88  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 1 Atk / 30SpA 
+- Quiver Dance  
+- Bug Buzz  
+- Ice Beam 
+- Hidden Power [Electric] 
+
+Frosmoth @ Heavy-Duty Boots 
+Ability: Ice Scales 
+Level: 88  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 1 Atk / 30SpA / 30 SpD 
+- Quiver Dance  
+- Bug Buzz  
+- Ice Beam 
+- Hidden Power [Ground] 
 
 Frosmoth @ Heavy-Duty Boots  
 Ability: Ice Scales  
@@ -8219,17 +8466,7 @@ EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe
 IVs: 0 Atk  
 - Quiver Dance  
 - Bug Buzz  
-- Ice Beam  
-- Hurricane  
-
-Frosmoth @ Heavy-Duty Boots  
-Ability: Ice Scales  
-Level: 88  
-EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 0 Atk  
-- Quiver Dance  
-- Bug Buzz  
-- Frost Breath  
+- Ice Beam
 - Giga Drain  
 
 === [gen8rrdl] RandBats Boxes/Furfrou ===  
@@ -8248,9 +8485,9 @@ Ability: Fur Coat
 Level: 90  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Return  
-- U-turn  
+- Protect  
 - Toxic  
-- Sucker Punch  
+- Substitute  
 
 === [gen8rrdl] RandBats Boxes/Furret ===  
 Ability: No Ability  
@@ -8287,7 +8524,7 @@ Level: 84
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Extreme Speed  
 - Knock Off  
-- Aqua Tail  
+- Brick Break  
 - U-turn  
 
 Furret @ Leftovers  
@@ -8297,30 +8534,64 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Extreme Speed  
 - Coil  
 - Knock Off  
+- Brick Break  
+
+Furret @ Leftovers  
+Ability: Adaptability  
+Level: 84  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Double Edge 
+- Tidy Up
+- Knock Off  
 - Fire Punch  
+
+Furret @ Leftovers  
+Ability: Adaptability  
+Level: 84  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Double Edge 
+- Tidy Up
+- Knock Off  
+- Brick Break  
+
+Furret @ Silk Scarf
+Ability: Adaptability  
+Level: 84  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe   
+- Tidy Up 
+- Last Resort  
 
 === [gen8rrdl] RandBats Boxes/Gallade ===  
 Ability: No Ability  
 Gallade @ Life Orb  
-Ability: Justified  
+Ability: Sharpness
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Swords Dance  
-- Close Combat  
-- Zen Headbutt  
-- Knock Off  
+- Sacred Sword 
+- Psycho Cut
+- Night Slash 
 
 Gallade @ Choice Scarf  
-Ability: Justified  
+Ability: Sharpness
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Close Combat  
+- Sacred Sword  
 - Trick  
-- Zen Headbutt  
-- Knock Off  
+- Psycho Cut 
+- Night Slash  
+
+Gallade @ Choice Band 
+Ability: Sharpness
+Level: 88  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Sacred Sword  
+- Cut
+- Psycho Cut 
+- Night Slash  
 
 Gallade-Mega @ Galladite  
-Ability: Justified  
+Ability: Steadfast 
 Level: 76  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Swords Dance  
@@ -8329,7 +8600,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Night Slash  
 
 Gallade-Mega @ Galladite  
-Ability: Justified  
+Ability: Steadfast 
 Level: 76  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Swords Dance  
@@ -8338,7 +8609,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Shadow Sneak  
 
 Gallade-Mega @ Galladite  
-Ability: Justified  
+Ability: Steadfast  
 Level: 76  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Swords Dance  
@@ -8408,6 +8679,16 @@ IVs: 0 Atk
 - Thunder  
 - Giga Drain  
 
+Galvantula @ Choice Specs 
+Ability: Compound Eyes  
+Level: 86  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk / 30 Def  
+- Energy Ball  
+- Bug Buzz  
+- Thunder  
+- Hidden Power [Ice]  
+
 === [gen8rrdl-box] RandBats Boxes/Garbodor ===  
 Ability: No Ability  
 Garbodor @ Black Sludge  
@@ -8447,7 +8728,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Stomping Tantrum  
 
 Garbodor @ Garbodorite  
-Ability: Gooey  
+Ability: Weak Armor  
 Level: 86  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Autotomize  
@@ -8456,7 +8737,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Drain Punch  
 
 Garbodor @ Garbodorite  
-Ability: Gooey  
+Ability: Weak Armor 
 Level: 86  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Spikes  
@@ -8465,7 +8746,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Explosion  
 
 Garbodor @ Garbodorite  
-Ability: Gooey  
+Ability: Weak Armor
 Level: 86  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Spikes  
@@ -8474,7 +8755,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Pain Split  
 
 Garbodor @ Garbodorite  
-Ability: Gooey  
+Ability: Weak Armor 
 Level: 86  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Spikes  
@@ -8484,7 +8765,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 === [gen8rrdl-box] RandBats Boxes/Garchomp ===  
 Ability: No Ability  
-Garchomp @ Life Orb  
+Garchomp @ Loaded Dice  
 Ability: Rough Skin  
 Level: 80  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
@@ -8492,6 +8773,15 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Earthquake  
 - Scale Shot  
 - Stone Edge  
+
+Garchomp @ Loaded Dice  
+Ability: Rough Skin  
+Level: 80  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Swords Dance  
+- Earthquake  
+- Scale Shot  
+- Fire Fang
 
 Garchomp @ Leftovers  
 Ability: Rough Skin  
@@ -8527,7 +8817,16 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Earthquake  
 - Stealth Rock  
 - Toxic  
-- Rest  
+- Spikes  
+
+Garchomp @ Rocky Helmet  
+Ability: Rough Skin  
+Level: 80  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Earthquake  
+- Stealth Rock  
+- Dragon Tail  
+- Spikes  
 
 Garchomp @ Leftovers  
 Ability: Rough Skin  
@@ -8562,6 +8861,15 @@ Level: 80
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Swords Dance  
 - Earthquake  
+- Draco Barrage  
+- Stone Edge   
+
+Garchomp-Mega @ Garchompite  
+Ability: Rough Skin  
+Level: 80  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Swords Dance  
+- Earthquake  
 - Stone Edge  
 - Stealth Rock  
 
@@ -8571,7 +8879,7 @@ Level: 80
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Swords Dance  
 - Earthquake  
-- Scale Shot  
+- Draco Barrage  
 - Stealth Rock  
 
 Garchomp-Mega @ Garchompite  
