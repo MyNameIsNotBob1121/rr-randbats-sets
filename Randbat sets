@@ -5168,7 +5168,7 @@ Ability: Tinted Lens
 Level: 86  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 IVs: 0 Atk  
-- Leaf Storm  
+- Giga Drain  
 - Shadow Ball  
 - Substitute  
 - Nasty Plot  
@@ -5236,6 +5236,15 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Triple Axel  
 - Roost  
 
+Decidueye-Hisui @ Choice Scarf  
+Ability: Striker  
+Level: 82  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- High Jump Kick  
+- Trop Kick  
+- Triple Axel  
+- U-turn
+
 === [gen8rrdl] RandBats Boxes/Dedenne ===  
 Ability: No Ability  
 IVs: 0 Atk  
@@ -5258,10 +5267,19 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - U-turn  
 - Hidden Power [Ice]  
 
+Dedenne @ Leftovers  
+Ability: Electric Surge  
+Level: 86  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Rising Voltage  
+- Dazzling Gleam  
+- U-turn  
+- Parabolic Charge  
+
 === [gen8rrdl] RandBats Boxes/Delcatty ===  
 Ability: No Ability  
 Delcatty @ Choice Specs  
-Ability: felinepower  
+Ability: Feline Prowess  
 Level: 88  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
@@ -5271,7 +5289,7 @@ IVs: 0 Atk
 - Shadow Ball  
 
 Delcatty @ Choice Scarf  
-Ability: felinepower  
+Ability: Feline Prowess 
 Level: 88  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
@@ -5281,7 +5299,7 @@ IVs: 0 Atk
 - Shadow Ball  
 
 Delcatty @ Life Orb  
-Ability: felinepower  
+Ability: Feline Prowess  
 Level: 88  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
@@ -5293,19 +5311,28 @@ IVs: 0 Atk
 === [gen8rrdl] RandBats Boxes/Delibird ===  
 Ability: No Ability  
 Delibird @ Heavy-Duty Boots  
-Ability: Surprise!  
-Level: 90  
+Ability: Refrigerate
+Level: 83 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Triple Axel  
-- Brave Bird  
+- Fake Out 
+- Rapid Spin 
 - Spikes  
 - Extreme Speed  
 
-Delibird @ Choice Band  
-Ability: Hustle  
-Level: 90  
+Delibird @ Never-Melt Ice  
+Ability: Refrigerate
+Level: 83 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Triple Axel  
+- Fake Out
+- Brave Bird  
+- Flip Turn 
+- Extreme Speed 
+
+Delibird @ Choice Band  
+Ability: Refrigerate  
+Level: 83  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Flip Turn 
 - Brave Bird  
 - Drill Run  
 - Extreme Speed  
@@ -5341,6 +5368,46 @@ IVs: 0 Atk
 - Mind Blown  
 - Grass Knot  
 - Scorching Sands  
+
+Delphox @ Choice Scarf 
+Ability: Magic Guard  
+Level: 76  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Psychic 
+- Mind Blown  
+- Grass Knot  
+- Scorching Sands  
+
+Delphox @ Choice Scarf 
+Ability: Magic Guard  
+Level: 76  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Psychic 
+- Mind Blown  
+- Dazzling Gleam  
+- Scorching Sands  
+
+Delphox @ Focus Sash  
+Ability: Magic Guard  
+Level: 76  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Nasty Plot  
+- Mind Blown  
+- Psychic 
+- Focus Blast  
+
+Delphox @ Life Orb  
+Ability: Magic Guard  
+Level: 76  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Nasty Plot  
+- Mind Blown  
+- Psychic 
+- Focus Blast  
 
 === [gen8rrdl-box] RandBats Boxes/Deoxys ===  
 Ability: No Ability  
@@ -5568,6 +5635,15 @@ Ability: Steelworker
 Level: 86  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Power Whip  
+- Spirit Shackle  
+- Swords Dance  
+- Synthesis  
+
+Dhelmise @ Heavy-Duty Boots  
+Ability: Steelworker  
+Level: 86  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Power Whip  
 - Anchor Shot  
 - Rapid Spin  
 - Synthesis  
@@ -5618,13 +5694,23 @@ IVs: 0 Atk
 - Ice Beam  
 - Synthesis  
 
+Dhelmise-Sevii @ Choice Specs 
+Ability: Tinted Lens  
+Level: 84  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Hydro Pump  
+- Chloroblast  
+- Ice Beam  
+- Flip Turn
+
 Dhelmise-Sevii @ Assault Vest  
 Ability: Tinted Lens  
 Level: 84  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Scald  
 - Giga Drain  
-- Ice Beam  
+- Flip Turn  
 - Rapid Spin  
 
 === [gen8rrdl-box] RandBats Boxes/Dialga ===  
@@ -5771,6 +5857,26 @@ IVs: 0 Atk
 - Toxic  
 - Stealth Rock  
 
+Diancie @ Leftovers  
+Ability: Clear Body  
+Level: 86  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Diamond Storm  
+- Earth Power 
+- Rock Polish 
+- Moonblast 
+
+Diancie @ Choice Specs 
+Ability: Clear Body  
+Level: 86  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Diamond Storm  
+- Earth Power 
+- Draining Kiss
+- Moonblast 
+
 Diancie-Mega @ Diancite  
 Ability: Magic Bounce  
 Level: 80  
@@ -5856,7 +5962,7 @@ Ability: Rock Head
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Brave Bird  
-- Jump Kick  
+- U-turn 
 - Double-Edge  
 - Knock Off  
 
@@ -5865,16 +5971,16 @@ Ability: Rock Head
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Brave Bird  
-- Jump Kick  
+- U-turn 
 - Double-Edge  
-- Pursuit  
+- Drill Run 
 
 Dodrio @ Choice Scarf  
 Ability: Rock Head  
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Brave Bird  
-- Jump Kick  
+- U-turn  
 - Double-Edge  
 - Knock Off  
 
@@ -5885,7 +5991,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Brave Bird  
 - Jump Kick  
 - Double-Edge  
-- Pursuit  
+- Knock Off  
 
 Dodrio @ Life Orb  
 Ability: Rock Head  
@@ -5894,7 +6000,34 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Swords Dance  
 - Brave Bird  
 - Double-Edge  
-- Jump Kick  
+- Drill Run
+
+Dodrio-Sevii @ Life Orb  
+Ability: Rock Head  
+Level: 83  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Swords Dance  
+- Brave Bird  
+- Flare Blitz  
+- Headlong Rush
+
+Dodrio-Sevii @ Choice Band  
+Ability: Rock Head  
+Level: 83  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- U-turn 
+- Brave Bird  
+- Flare Blitz  
+- Headlong Rush
+
+Dodrio-Sevii @ Choice Scarf  
+Ability: Rock Head  
+Level: 83 
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- U-turn 
+- Brave Bird  
+- Flare Blitz  
+- Headlong Rush
 
 === [gen8rrdl-box] RandBats Boxes/Donphan ===  
 Ability: No Ability  
@@ -5916,14 +6049,14 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Ice Shard  
 - Stealth Rock  
 
-Donphan @ Leftovers  
+Donphan @ Leftovers 
 Ability: Technician  
 Level: 82  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Bonemerang  
 - Rock Blast  
 - Rapid Spin  
-- Encore  
+- Knock Off
 
 Donphan @ Choice Band  
 Ability: Technician  
@@ -5964,7 +6097,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 === [gen8rrdl] RandBats Boxes/Doublade ===  
 Ability: No Ability  
 Doublade @ Eviolite  
-Ability: Blademaster  
+Ability: Sharpness
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Swords Dance  
@@ -5979,7 +6112,7 @@ Ability: Strong Jaw
 Level: 76  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Fishious Rend  
-- Toxic  
+- Toxic
 - Crunch  
 - Psychic Fangs  
 
@@ -6002,6 +6135,15 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Psychic Fangs  
 
 Dracovish @ Choice Scarf  
+Ability: Strong Jaw  
+Level: 76  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Fishious Rend  
+- Outrage  
+- Crunch  
+- Psychic Fangs  
+
+Dracovish @ Assault Vest  
 Ability: Strong Jaw  
 Level: 76  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
@@ -6041,6 +6183,24 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Dracozolt @ Life Orb  
 Ability: Sand Rush  
+Level: 84  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Bolt Beak  
+- Draco Meteor  
+- Fire Blast  
+- Earthquake  
+
+Dracozolt @ Life Orb  
+Ability: Hustle  
+Level: 84  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Bolt Beak  
+- Draco Meteor  
+- Fire Blast  
+- Earthquake  
+
+Dracozolt @ Assault Vest  
+Ability: Hustle  
 Level: 84  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Bolt Beak  
@@ -6106,6 +6266,15 @@ EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - U-turn  
 - Thunderbolt  
 
+Dragapult @ Choice Band  
+Ability: Clear Body  
+Level: 80  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Spirit Shackle  
+- Dragon Darts  
+- U-turn  
+- Toxic  
+
 Dragapult @ Heavy-Duty Boots  
 Ability: Infiltrator  
 Level: 80  
@@ -6132,14 +6301,24 @@ IVs: 0 Atk
 - Hex  
 - Draco Meteor  
 - Substitute  
-- Disable  
+- Toxic
 
 Dragapult @ Leftovers  
 Ability: Infiltrator  
 Level: 80  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
-- Shadow Ball  
+- Hex  
+- Draco Meteor  
+- Substitute  
+- Thunder Wave
+
+Dragapult @ Leftovers  
+Ability: Infiltrator  
+Level: 80  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Hex  
 - Draco Meteor  
 - Substitute  
 - Will-O-Wisp  
@@ -6251,6 +6430,16 @@ IVs: 0 Atk
 - Hyper Voice  
 - Draco Meteor  
 - Hurricane  
+- Fire Blast  
+
+Drampa @ Choice Specs  
+Ability: Fatal Precision  
+Level: 88  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Thunder  
+- Draco Meteor  
+- Hyper Voice  
 - Fire Blast  
 
 === [gen8rrdl] RandBats Boxes/Drapion ===  
@@ -6440,7 +6629,7 @@ Ability: Unburden
 Level: 88  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 1 Atk  
-- Substitute  
+- Strength Sap 
 - Nasty Plot  
 - Shadow Ball  
 - Hidden Power [Fighting]  
@@ -6450,10 +6639,10 @@ Ability: Unburden
 Level: 88  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
-- Substitute  
+- Strength Sap
 - Calm Mind  
 - Shadow Ball  
-- Hurricane  
+- Air Slash 
 
 Drifblim @ Sitrus Berry  
 Ability: Unburden  
@@ -6529,16 +6718,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Fire Punch  
 - Sucker Punch  
 
-Druddigon @ Life Orb  
-Ability: Sheer Force  
-Level: 88  
-EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Dragon Hammer  
-- Roost  
-- Fire Punch  
-- Bulldoze  
-
-Druddigon @ Life Orb  
+Druddigon @ Loaded Dice 
 Ability: Mold Breaker  
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
@@ -6559,7 +6739,7 @@ IVs: 0 Atk
 - Rest  
 - Sleep Talk  
 
-Dubwool @ Leftovers  
+Dubwool @ Chesto Berry 
 Ability: Fluffy  
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
@@ -6594,10 +6774,21 @@ Level: 88
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 Serious Nature  
 IVs: 28 HP  
-- Hone Claws  
+- Swords Dance  
 - Earthquake  
 - Stone Edge  
 - Reversal  
+
+Dugtrio @ Focus Sash  
+Ability: Arena Trap  
+Level: 88  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+Serious Nature  
+IVs: 28 HP  
+- Swords Dance 
+- Earthquake  
+- Stone Edge  
+- Sucker Punch
 
 Dugtrio-Alola @ Life Orb  
 Ability: Tangling Hair  
@@ -6626,18 +6817,36 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Earthquake  
 - Iron Head  
 
+Dugtrio-Alola @ Life Orb  
+Ability: Tangling Hair  
+Level: 88  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Swords Dance  
+- Stone Edge  
+- Earthquake  
+- Iron Head  
+
 === [gen8rrdl] RandBats Boxes/Dunsparce ===  
 Ability: No Ability  
-Dunsparce @ Leftovers  
+Dunsparce @ Eviolite  
 Ability: Serene Grace  
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Glare  
+- Roost  
 - Headbutt  
 - No Retreat  
 - Rock Slide  
 
-Dunsparce @ Leftovers  
+Dunsparce @ Eviolite  
+Ability: Serene Grace  
+Level: 88  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Roost  
+- Headbutt  
+- No Retreat  
+- Earthquake  
+
+Dunsparce @ Eviolite 
 Ability: Serene Grace  
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
@@ -6646,7 +6855,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - No Retreat  
 - Roost  
 
-Dunsparce @ Leftovers  
+Dunsparce @ Eviolite  
 Ability: Serene Grace  
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
@@ -6655,7 +6864,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Coil  
 - Body Slam  
 
-Dunsparce @ Leftovers  
+Dunsparce @ Eviolite 
 Ability: Serene Grace  
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
@@ -6666,65 +6875,56 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 === [gen8rrdl] RandBats Boxes/Duraludon ===  
 Ability: No Ability  
-Duraludon @ Assault Vest  
-Ability: Light Metal  
-Level: 88  
-EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 0 Atk  
-- Body Press  
-- Draco Meteor  
-- Flash Cannon  
-- Thunderbolt  
 
-Duraludon @ Leftovers  
-Ability: Light Metal  
+Duraludon @ Eviolite  
+Ability: Heavy Metal  
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Body Press  
 - Draco Meteor  
-- Flash Cannon  
-- Stealth Rock  
+- Iron Defense  
+- Stealth Rocks
 
-Duraludon @ Leftovers  
-Ability: Light Metal  
+Duraludon @ Eviolite  
+Ability: Heavy Metal  
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Body Press  
 - Draco Meteor  
-- Flash Cannon  
 - Thunder Wave  
+- Stealth Rocks
 
-Duraludon @ Duraludonite  
-Ability: Clear Body  
-Level: 80  
+Duraludon @ Eviolite  
+Ability: Heavy Metal  
+Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
-- Draco Meteor  
-- Steel Beam  
 - Body Press  
-- Thunderbolt  
+- Draco Meteor  
+- Toxic 
+- Stealth Rocks
 
-Duraludon @ Duraludonite  
-Ability: Clear Body  
-Level: 80  
+Duraludon @ Eviolite  
+Ability: Heavy Metal  
+Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
-- Draco Meteor  
-- Steel Beam  
 - Body Press  
-- Stealth Rock  
+- Iron Defense  
+- Rest 
+- Sleep Talk
 
-Duraludon @ Duraludonite  
-Ability: Clear Body  
-Level: 80  
+Duraludon @ Eviolite  
+Ability: Heavy Metal  
+Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
-- Draco Meteor  
-- Steel Beam  
-- Body Press  
-- Thunder Wave  
+- Swords Dance  
+- Dragon Claw 
+- Iron Head 
+- Stomping Tantrum
 
 === [gen8rrdl] RandBats Boxes/Durant ===  
 Ability: No Ability  
