@@ -2579,10 +2579,9 @@ IVs: 0 Spe
 Bronzong @ Leftovers  
 Ability: Levitate  
 Level: 86  
-EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD  
-IVs: 0 Atk  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD   
 - Stealth Rock  
-- Psychic  
+- Psyshield Bash
 - Body Press  
 - Teleport  
 
@@ -2590,9 +2589,8 @@ Bronzong @ Leftovers
 Ability: Levitate  
 Level: 86  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD  
-IVs: 0 Atk  
 - Stealth Rock  
-- Psychic  
+- Psyshield Bash
 - Body Press  
 - Toxic  
 
@@ -2602,7 +2600,7 @@ Level: 86
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD  
 IVs: 0 Atk  
 - Stealth Rock  
-- Protect  
+- Protect
 - Body Press  
 - Toxic  
 
@@ -15841,6 +15839,46 @@ IVs: 0 Atk
 - Flamethrower  
 - Switcheroo  
 
+Noivern-Sevii @ Leftovers  
+Ability: Levitate
+Level: 84  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Stealth Rock 
+- Taunt 
+- Poltergeist 
+- Destiny Bond
+
+Noivern-Sevii @ Leftovers  
+Ability: Levitate
+Level: 84  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Stealth Rock 
+- Defog
+- Poltergeist 
+- Destiny Bond
+
+Noivern-Sevii @ Choice Scarf  
+Ability: Rock Head
+Level: 84  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Switcheroo
+- Head Smash
+- Poltergeist 
+- Destiny Bond
+
+Noivern-Sevii @ Choice Band 
+Ability: Rock Head
+Level: 84  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Brave Bird
+- Head Smash
+- Poltergeist 
+- Earthquake
+
 === [gen8rrdl] RandBats Boxes/Obstagoon ===  
 Ability: No Ability  
 Obstagoon @ Flame Orb  
@@ -19343,6 +19381,24 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Poison Fang  
 - Protect  
 
+Sharpedo-Mega @ Sharpedonite  
+Ability: Speed Boost  
+Level: 84  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Aqua Fang  
+- Crunch  
+- Ice Fang 
+- Protect  
+
+Sharpedo-Mega @ Sharpedonite  
+Ability: Speed Boost  
+Level: 84  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Aqua Fang  
+- Crunch  
+- Psychic Fangs
+- Protect  
+
 === [gen8rrdl] RandBats Boxes/Shaymin ===  
 Ability: No Ability  
 Shaymin @ Life Orb  
@@ -19406,35 +19462,42 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Will-O-Wisp  
 
 === [gen8rrdl] RandBats Boxes/Shiftry ===  
-Ability: No Ability  
-Shiftry @ Life Orb  
-Ability: Chlorophyll  
-Level: 88  
-EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 0 Atk  
-- Leaf Storm  
-- Dark Pulse  
-- Heat Wave  
-- Sunny Day  
-
+Ability: No Ability   
 Shiftry @ Focus Sash  
-Ability: Chlorophyll  
+Ability: Wind Rider  
 Level: 88  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 0 Atk  
-- Leaf Storm  
-- Dark Pulse  
-- Heat Wave  
-- Sunny Day  
+- Ceaseless Edge
+- Parting Shot
+- Taunt 
+- Sucker Punch
 
-Shiftry @ Life Orb  
-Ability: Infiltrator  
+Shiftry @ Heavy-Duty Boots  
+Ability: Wind Rider  
 Level: 88  
-EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Leaf Storm  
-- Dark Pulse  
-- Heat Wave  
-- Sucker Punch  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Ceaseless Edge
+- Parting Shot
+- Taunt 
+- Sucker Punch
+
+Shiftry @ Life Orb 
+Ability: Wind Rider  
+Level: 88  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Tailwind
+- Parting Shot
+- Knock Off
+- Leaf Blade
+
+Shiftry @ Life Orb 
+Ability: Wind Rider  
+Level: 88  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Swords Dance
+- Sucker Punch
+- Knock Off
+- Leaf Blade
 
 === [gen8rrdl] RandBats Boxes/Shiinotic ===  
 Ability: No Ability  
@@ -19537,13 +19600,43 @@ IVs: 0 Atk
 - Psychic  
 - Roost  
 
+Sigilyph @ Focus Sash  
+Ability: Magic Guard  
+Level: 86  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Air Slash  
+- Defog  
+- Heat Wave  
+- Roost  
+
+Sigilyph @ Focus Sash    
+Ability: Magic Guard  
+Level: 86  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Psychic  
+- Defog  
+- Heat Wave  
+- Roost  
+
+Sigilyph @ Focus Sash  
+Ability: Magic Guard  
+Level: 86  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Air Slash  
+- Defog  
+- Psychic  
+- Roost  
+
 Sigilyph @ Choice Specs  
 Ability: Tinted Lens  
 Level: 86  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Air Slash  
-- Psychic  
+- Esper Wing  
 - Heat Wave  
 - Energy Ball  
 
@@ -20502,45 +20595,41 @@ IVs: 0 Atk
 === [gen8rrdl] RandBats Boxes/Sirfetch’d ===  
 Ability: No Ability  
 Sirfetch’d @ Leek Stick  
-Ability: Blademaster  
+Ability: Sharpness  
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Sacred Sword  
 - Drill Run  
 - Night Slash  
 - Swords Dance  
+
 Sirfetch’d @ Choice Band  
-Ability: Blademaster  
+Ability: Scrappy  
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Sacred Sword  
+- Close Combat  
 - Drill Run  
 - First Impression  
 - Meteor Assault  
-Sirfetch’d @ Leek Stick  
-Ability: Blademaster  
-Level: 88  
-EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Sacred Sword  
-- Poison Jab  
-- Night Slash  
-- Swords Dance  
-Sirfetch’d @ Leek Stick  
-Ability: Blademaster  
-Level: 88  
-EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Sacred Sword  
-- Night Slash  
-- Roost  
-- Swords Dance  
-Sirfetch’d @ Leek Stick  
-Ability: Blademaster  
+
+Sirfetch’d @ Life Orb 
+Ability: Sharpness  
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Sacred Sword  
 - Drill Run  
-- Roost  
+- Leaf Blade 
 - Swords Dance  
+
+Sirfetch’d @ Choice Band 
+Ability: Sharpness  
+Level: 88  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Sacred Sword  
+- Brave Bird
+- Leaf Blade 
+- First Impression 
+
 === [gen8rrdl] RandBats Boxes/Skarmory ===  
 Ability: No Ability  
 Skarmory @ Rocky Helmet  
@@ -20580,13 +20669,33 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Roost  
 - Spikes  
 
+Skarmory @ Leftovers 
+Ability: Sturdy  
+Level: 82  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Body Press  
+- Defog 
+- Roost  
+- Brave Bird 
+
+Skarmory @ Leftovers 
+Ability: Sturdy  
+Level: 82  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Body Press  
+- Defog 
+- Roost  
+- Iron Defense
+
 === [gen8rrdl] RandBats Boxes/Skuntank ===  
 Ability: No Ability  
 Skuntank @ Black Sludge  
 Ability: Aftermath  
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Crunch  
+- Knock Off
 - Poison Jab  
 - Fire Blast  
 - Defog  
@@ -20604,7 +20713,7 @@ Skuntank @ Black Sludge
 Ability: Aftermath  
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Crunch  
+- Knock Off
 - Sucker Punch  
 - Fire Blast  
 - Defog  
@@ -20613,7 +20722,7 @@ Skuntank @ Black Sludge
 Ability: Aftermath  
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Crunch  
+- Knock Off
 - Poison Jab  
 - Sucker Punch  
 - Defog  
@@ -20622,7 +20731,7 @@ Skuntank @ Black Sludge
 Ability: Aftermath  
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Crunch  
+- Knock Off
 - Poison Jab  
 - Fire Blast  
 - Sucker Punch  
@@ -20631,7 +20740,7 @@ Skuntank @ Black Sludge
 Ability: Aftermath  
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Crunch  
+- Knock Off 
 - Poison Jab  
 - Toxic  
 - Taunt  
@@ -20640,7 +20749,7 @@ Skuntank @ Black Sludge
 Ability: Aftermath  
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Crunch  
+- Knock Off
 - Toxic  
 - Fire Blast  
 - Taunt  
@@ -20656,11 +20765,20 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Knock Off  
 - Slack Off  
 
+Slaking @ Leftovers  
+Ability: Truant  
+Level: 88  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Body Slam  
+- Bulk Up 
+- Knock Off  
+- Slack Off  
+
 === [gen8rrdl] RandBats Boxes/Sliggoo ===  
 Ability: No Ability  
 Sliggoo-Hisui @ Eviolite  
 Ability: Sap Sipper  
-Level: 88  
+Level: 90  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Fire Blast  
@@ -20670,7 +20788,7 @@ IVs: 0 Atk
 
 Sliggoo-Hisui @ Eviolite  
 Ability: Sap Sipper  
-Level: 88  
+Level: 90 
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Flash Cannon  
@@ -20680,7 +20798,7 @@ IVs: 0 Atk
 
 Sliggoo-Hisui @ Eviolite  
 Ability: Sap Sipper  
-Level: 88  
+Level: 90  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Flash Cannon  
@@ -20690,7 +20808,7 @@ IVs: 0 Atk
 
 Sliggoo-Hisui @ Eviolite  
 Ability: Sap Sipper  
-Level: 88  
+Level: 90 
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Body Press  
@@ -20750,6 +20868,26 @@ IVs: 0 Atk
 - Calm Mind  
 - Slack Off  
 
+Slowbro-Mega @ Slowbronite  
+Ability: Oblivious  
+Level: 82  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Scald  
+- Future Sight
+- Teleport  
+- Slack Off  
+
+Slowbro-Mega @ Slowbronite  
+Ability: Oblivious  
+Level: 82  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Body Press  
+- Future Sight
+- Teleport  
+- Slack Off  
+
 Slowbro-Galar @ Life Orb  
 Ability: Regenerator  
 Level: 86  
@@ -20763,8 +20901,8 @@ IVs: 0 Atk
 Slowbro-Galar @ Life Orb  
 Ability: Regenerator  
 Level: 86  
-EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 0 Atk  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD  
+IVs: 0 Atk / 0 Spe
 - Shell Side Arm  
 - Psychic  
 - Flamethrower  
@@ -20790,7 +20928,7 @@ IVs: 0 Atk
 - Scald  
 - Future Sight  
 - Slack Off  
-- Teleport  
+- Chilly Reception  
 
 Slowking @ Leftovers  
 Ability: Regenerator  
@@ -20840,7 +20978,7 @@ IVs: 0 Atk
 - Sludge Bomb  
 - Future Sight  
 - Slack Off  
-- Teleport  
+- Chilly Reception  
 
 Slowking-Galar @ Black Sludge  
 Ability: Regenerator  
@@ -20850,7 +20988,7 @@ IVs: 0 Atk
 - Sludge Bomb  
 - Flamethrower  
 - Slack Off  
-- Nasty Plot  
+- Chilly Reception   
 
 === [gen8rrdl] RandBats Boxes/Slurpuff ===  
 Ability: No Ability  
@@ -20863,6 +21001,15 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Return  
 - Belly Drum  
 
+Slurpuff @ Sitrus Berry  
+Ability: Unburden  
+Level: 88  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Play Rough  
+- Sticky Web
+- Toxic 
+- Misty Explosion
+
 === [gen8rrdl] RandBats Boxes/Smeargle ===  
 Ability: No Ability  
 Smeargle @ Focus Sash  
@@ -20874,11 +21021,47 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Spikes  
 - Spore  
 
+Smeargle @ Focus Sash  
+Ability: Own Tempo  
+Level: 88  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Stone Axe 
+- Sticky Web  
+- Ceaseless Edge  
+- Spore  
+
+Smeargle @ Focus Sash  
+Ability: Own Tempo  
+Level: 88  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Nuzzle  
+- Sticky Web  
+- Stealth Rock 
+- Spore  
+
+Smeargle @ Wide Lens  
+Ability: Technician
+Level: 88  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Shell Smash 
+- Population Bomb 
+- Power Trip
+- Spore  
+
+Rico (Smeargle) @ Focus Sash  
+Ability: Own Tempo
+Level: 88  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Shell Smash 
+- Upper Hand
+- Explosion
+- Spore  
+
 === [gen8rrdl] RandBats Boxes/Sneasel ===  
 Ability: No Ability  
 Sneasel @ Choice Band  
 Ability: Infiltrator  
-Level: 88  
+Level: 92  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Triple Axel  
 - Knock Off  
@@ -20891,18 +21074,27 @@ Sneasler @ Choice Band
 Ability: Poison Touch  
 Level: 80  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Gunk Shot  
+- Dire Claw
 - Close Combat  
-- Earthquake  
+- U-turn 
 - Knock Off  
 
 Sneasler @ Life Orb  
 Ability: Poison Touch  
 Level: 80  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Gunk Shot  
+- Dire Claw
 - Close Combat  
 - Earthquake  
+- Swords Dance  
+
+Sneasler @ White Herb
+Ability: Unburden 
+Level: 80  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Gunk Shot  
+- Close Combat  
+- Acrobatics 
 - Swords Dance  
 
 === [gen8rrdl] RandBats Boxes/Snorlax ===  
@@ -20958,7 +21150,7 @@ Level: 84
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Body Slam  
 - Curse  
-- Darkest Lariat  
+- Seed Bomb
 - Rest  
 
 === [gen8rrdl] RandBats Boxes/Solgaleo ===  
@@ -21068,9 +21260,18 @@ Spectrier @ Leftovers
 Ability: Grim Neigh  
 Level: 76  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 0 Atk  
+IVs: 30 HP / 1 Atk  / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Shadow Ball  
-- Dark Pulse  
+- Hidden Power [Fighting]
+- Substitute  
+- Nasty Plot  
+
+Spectrier @ Leftovers  
+Ability: Grim Neigh  
+Level: 76  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Shadow Ball  
+- Draining Kiss
 - Substitute  
 - Nasty Plot  
 
@@ -21173,29 +21374,39 @@ IVs: 0 Spe
 - Body Press  
 - Earthquake  
 
+Stakataka @ Choice Band  
+Ability: Beast Boost  
+Level: 86  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD  
+IVs: 0 Spe  
+- Gyro Ball  
+- Stone Edge  
+- Heat Crash
+- Earthquake  
+
 === [gen8rrdl] RandBats Boxes/Stantler ===  
 Ability: No Ability  
 Stantler @ Eviolite  
 Ability: Intimidate  
-Level: 88  
+Level: 90 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Body Slam  
-- Earthquake  
+- Psyshield Bash
 - Rest  
 - Sleep Talk  
 
 Stantler @ Eviolite  
 Ability: Intimidate  
-Level: 88  
+Level: 90  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Body Slam  
+- Psyshield Bash
 - Toxic  
 - Rest  
 - Sleep Talk  
 
 Stantler @ Eviolite  
 Ability: Intimidate  
-Level: 88  
+Level: 90 
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Hyper Voice  
@@ -21360,7 +21571,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 === [gen8rrdl] RandBats Boxes/Stonjourner ===  
 Ability: No Ability  
 Stonjourner @ Choice Scarf  
-Ability: Power Spot  
+Ability: Rocky Payload
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Stone Edge  
@@ -21369,7 +21580,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Superpower  
 
 Stonjourner @ Life Orb  
-Ability: Power Spot  
+Ability: Rocky Payload
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Stone Edge  
@@ -21378,7 +21589,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Rock Polish  
 
 Stonjourner @ Life Orb  
-Ability: Power Spot  
+Ability: Rocky Payload
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Stone Edge  
@@ -21560,7 +21771,17 @@ IVs: 0 Atk
 - Scald  
 - Calm Mind  
 - Ice Beam  
-- Air Slash  
+- Substitute
+
+Suicune @ Leftovers  
+Ability: Pressure  
+Level: 84  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Scald  
+- Calm Mind  
+- Toxic  
+- Substitute
 
 Suicune @ Chesto Berry  
 Ability: Pressure  
@@ -21579,18 +21800,18 @@ EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe
 IVs: 0 Atk  
 - Scald  
 - Calm Mind  
-- Air Slash  
+- Ice Beam 
 - Rest  
 
 === [gen8rrdl] RandBats Boxes/Sunflora ===  
 Ability: No Ability  
-Sunflora @ Life Orb  
+Sunflora @ Burnt Seed 
 Ability: Chlorophyll  
 Level: 88  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Fire Blast  
-- Seed Flare  
+- Solar Beam
 - Earth Power  
 - Sunny Day  
 
@@ -21600,9 +21821,19 @@ Level: 88
 EVs: 85 HP / 85 Def / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Fire Blast  
-- Seed Flare  
+- Solar Beam  
 - Earth Power  
 - Sunny Day  
+
+Sunflora @ Choice Specs 
+Ability: Chlorophyll  
+Level: 88  
+EVs: 85 HP / 85 Def / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Fire Blast  
+- Seed Flare 
+- Earth Power  
+- Sludge Bomb  
 
 === [gen8rrdl] RandBats Boxes/Swalot ===  
 Ability: No Ability  
@@ -21729,6 +21960,15 @@ IVs: 0 Atk
 - Hurricane  
 - Hydro Pump  
 - Blizzard  
+- Roost  
+
+Swanna @ Heavy-Duty Boots  
+Ability: No Guard  
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Hurricane  
+- Hydro Pump  
+- Defog
 - Roost  
 
 === [gen8rrdl] RandBats Boxes/Swellow ===  
@@ -21869,6 +22109,7 @@ Tangrowth @ Assault Vest
 Ability: Regenerator  
 Level: 84  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 30 Atk / 30 Def
 - Giga Drain  
 - Knock Off  
 - Hidden Power [Ice]  
@@ -21878,6 +22119,7 @@ Tangrowth @ Rocky Helmet
 Ability: Regenerator  
 Level: 84  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 30 Atk / 30 Def
 - Giga Drain  
 - Knock Off  
 - Hidden Power [Ice]  
@@ -21887,6 +22129,7 @@ Tangrowth @ Assault Vest
 Ability: Regenerator  
 Level: 84  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 30 Atk / 30 SpA / 30 Spe
 - Giga Drain  
 - Knock Off  
 - Sludge Bomb  
@@ -21898,7 +22141,7 @@ Tapu Bulu @ Choice Band
 Ability: Grassy Surge  
 Level: 82  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Horn Leech  
+- Grassy Glide 
 - Play Rough  
 - Close Combat  
 - Wood Hammer  
@@ -21907,7 +22150,7 @@ Tapu Bulu @ Choice Scarf
 Ability: Grassy Surge  
 Level: 82  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Horn Leech  
+- Wood Hammer 
 - Play Rough  
 - Close Combat  
 - Stone Edge  
@@ -21917,7 +22160,7 @@ Ability: Grassy Surge
 Level: 82  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Swords Dance  
-- Horn Leech  
+- Grassy Glide
 - Play Rough  
 - Close Combat  
 
@@ -21927,8 +22170,8 @@ Level: 82
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Swords Dance  
 - Synthesis  
-- Horn Leech  
-- Close Combat  
+- Grassy Glide 
+- Play Rough
 
 Tapu Bulu @ Leftovers  
 Ability: Grassy Surge  
@@ -22052,7 +22295,7 @@ Tapu Koko @ Choice Band
 Ability: Electric Surge  
 Level: 80  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Wild Charge  
+- Supercell Slam
 - Play Rough  
 - Close Combat  
 - U-turn  
@@ -22177,52 +22420,70 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Sludge Bomb  
 - Rapid Spin  
 
+Tentacruel @ Assault Vest 
+Ability: Clear Body  
+Level: 86  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Flip Turn
+- Scald  
+- Sludge Bomb  
+- Rapid Spin  
+
+Tentacruel @ Assault Vest 
+Ability: Clear Body  
+Level: 86  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Flip Turn
+- Scald  
+- Knock Off
+- Rapid Spin  
+
 === [gen8rrdl] RandBats Boxes/Terrakion ===  
 Ability: No Ability  
 Terrakion @ Choice Band  
-Ability: Justified  
+Ability: Sharpness
 Level: 80  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Close Combat  
+- Sacred Sword
 - Stone Edge  
 - Megahorn  
 - Earthquake  
 
 Terrakion @ Choice Scarf  
-Ability: Justified  
+Ability: Sharpness
 Level: 80  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Close Combat  
+- Sacred Sword
 - Stone Edge  
 - Megahorn  
 - Earthquake  
 
 Terrakion @ Life Orb  
-Ability: Justified  
+Ability: Sharpness
 Level: 80  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Swords Dance  
-- Close Combat  
+- Sacred Sword
 - Stone Edge  
 - Earthquake  
 
 Terrakion @ Life Orb  
-Ability: Justified  
+Ability: Sharpness
 Level: 80  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Swords Dance  
 - Rock Polish  
-- Close Combat  
+- Sacred Sword
 - Stone Edge  
 
 Terrakion @ Focus Sash  
-Ability: Justified  
+Ability: Sharpness
 Level: 80  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Stealth Rock  
 - Swords Dance  
 - Stone Edge  
-- Close Combat  
+- Sacred Sword
 
 === [gen8rrdl] RandBats Boxes/Thievul ===  
 Ability: No Ability  
@@ -22256,6 +22517,16 @@ IVs: 0 Atk
 - Grass Knot  
 - Psychic  
 
+Thievul @ Sitrus Berry
+Ability: Stakeout  
+Level: 88  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Nasty Plot
+- Mystical Fire  
+- Dark Pulse
+- Substitute 
+
 === [gen8rrdl] RandBats Boxes/Throh ===  
 Ability: No Ability  
 Throh @ Leftovers  
@@ -22263,7 +22534,7 @@ Ability: Technician
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Bulk Up  
-- Circle Throw  
+- Storm Throw  
 - Knock Off  
 - Rest  
 
@@ -22330,7 +22601,7 @@ Thundurus-Therian @ Choice Scarf
 Ability: Volt Absorb  
 Level: 84  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 0 Atk  
+IVs: 0 Atk / 30 Def  
 - Thunderbolt  
 - Volt Switch  
 - Focus Blast  
@@ -22340,7 +22611,7 @@ Thundurus-Therian @ Heavy-Duty Boots
 Ability: Volt Absorb  
 Level: 84  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 0 Atk  
+IVs: 0 Atk / 30 Def  
 - Nasty Plot  
 - Thunderbolt  
 - Focus Blast  
@@ -22368,6 +22639,15 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - U-turn  
 
 Togedemaru @ Leftovers  
+Ability: Iron Barbs  
+Level: 88  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Wish  
+- Toxic  
+- Spiky Shield  
+- Iron Head  
+
+Togedemaru @ Rocky Helmet 
 Ability: Iron Barbs  
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
@@ -22463,7 +22743,7 @@ Ability: Drought
 Level: 86  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
-- Eruption  
+- Fire Blast
 - Lava Plume  
 - Solar Beam  
 - Earth Power  
@@ -22474,19 +22754,19 @@ Tornadus @ Life Orb
 Ability: Defiant  
 Level: 86  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Hurricane  
+- Bleakwind Storm
 - Heat Wave  
-- Superpower  
+- Defog
 - Knock Off  
 
 Tornadus @ Heavy-Duty Boots  
 Ability: Defiant  
 Level: 86  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Hurricane  
+- Bleakwind Storm 
 - Heat Wave  
 - Knock Off  
-- U-turn  
+- Defog
 
 Tornadus  
 Ability: Defiant  
@@ -22501,7 +22781,7 @@ Tornadus-Therian @ Heavy-Duty Boots
 Ability: Regenerator  
 Level: 80  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Hurricane  
+- Bleakwind Storm 
 - Knock Off  
 - U-turn  
 - Defog  
@@ -22510,7 +22790,7 @@ Tornadus-Therian @ Assault Vest
 Ability: Regenerator  
 Level: 80  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Hurricane  
+- Bleakwind Storm 
 - Superpower  
 - Heat Wave  
 - U-turn  
@@ -22520,10 +22800,19 @@ Ability: Regenerator
 Level: 80  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
-- Hurricane  
+- Bleakwind Storm
 - Focus Blast  
 - Heat Wave  
 - Nasty Plot  
+
+Tornadus-Therian @ Heavy-Duty Boots  
+Ability: Regenerator  
+Level: 80  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Bleakwind Storm
+- Knock Off
+- U-turn 
+- Defog
 
 === [gen8rrdl] RandBats Boxes/Torterra ===  
 Ability: No Ability  
@@ -22587,8 +22876,8 @@ Toucannon @ Heavy-Duty Boots
 Ability: Skill Link  
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Brave Bird  
-- Boomburst  
+- Beak Blast 
+- Roost 
 - Bullet Seed  
 - Overheat  
 
@@ -22596,9 +22885,9 @@ Toucannon @ Heavy-Duty Boots
 Ability: Skill Link  
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Brave Bird  
-- Overheat  
-- Bullet Seed  
+- Beak Blast
+- Roost
+- Rock Blast 
 - U-turn  
 
 === [gen8rrdl] RandBats Boxes/Toxapex ===  
@@ -22609,7 +22898,7 @@ Level: 80
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Toxic  
-- Frost Breath  
+- Knock Off
 - Scald  
 - Recover  
 
@@ -22753,7 +23042,7 @@ IVs: 0 Atk
 === [gen8rrdl] RandBats Boxes/Trevenant ===  
 Ability: No Ability  
 Trevenant @ Choice Band  
-Ability: Frisk  
+Ability: Natural Cure 
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Poltergeist  
@@ -22762,7 +23051,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Earthquake  
 
 Trevenant @ Choice Band  
-Ability: Frisk  
+Ability: Natural Cure 
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Poltergeist  
@@ -22771,7 +23060,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Trick  
 
 Trevenant @ Choice Band  
-Ability: Frisk  
+Ability: Natural Cure 
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Poltergeist  
@@ -22780,7 +23069,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Earthquake  
 
 Trevenant @ Choice Band  
-Ability: Frisk  
+Ability: Natural Cure 
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Poltergeist  
@@ -22794,8 +23083,17 @@ Level: 88
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Substitute  
 - Leech Seed  
-- Poltergeist  
+- Toxic  
 - Horn Leech  
+
+Trevenant @ Sitrus Berry  
+Ability: Harvest  
+Level: 88  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Substitute  
+- Leech Seed  
+- Toxic  
+- Protect
 
 === [gen8rrdl] RandBats Boxes/Tropius ===  
 Ability: No Ability  
@@ -22816,7 +23114,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 IVs: 0 Atk  
 - Sunny Day  
 - Dragon Pulse  
-- Giga Drain  
+- Solar Beam
 - Weather Ball  
 
 Tropius @ Sitrus Berry  
@@ -23003,7 +23301,7 @@ Ability: Sand Stream
 Level: 82  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Stone Edge  
-- Crunch  
+- Knock Off
 - Pursuit  
 - Superpower  
 
@@ -23012,9 +23310,27 @@ Ability: Sand Stream
 Level: 82  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Stone Edge  
-- Crunch  
+- Knock Off
 - Pursuit  
 - Stealth Rock  
+
+Tyranitar @ Choice Scarf
+Ability: Sand Stream  
+Level: 82  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Stone Edge  
+- Knock Off 
+- Earthquake 
+- Stealth Rock  
+
+Tyranitar @ Weakness Policy
+Ability: Sand Stream  
+Level: 82  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Stone Edge  
+- Knock Off 
+- Earthquake 
+- Dragon Dance
 
 Tyranitar-Mega @ Tyranitarite  
 Ability: Sand Stream  
@@ -23022,7 +23338,7 @@ Level: 80
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Dragon Dance  
 - Stone Edge  
-- Ice Punch  
+- Knock Off 
 - Fire Punch  
 
 Tyranitar-Mega @ Tyranitarite  
@@ -23031,7 +23347,7 @@ Level: 80
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Stealth Rock  
 - Stone Edge  
-- Crunch  
+- Knock Off
 - Pursuit  
 
 === [gen8rrdl] RandBats Boxes/Tyrantrum ===  
@@ -23054,12 +23370,12 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Accelerock  
 - Close Combat  
 
-Tyrantrum @ Lum Berry  
+Tyrantrum @ Loaded Dice
 Ability: Rock Head  
 Level: 84  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Dragon Dance  
-- Head Smash  
+- Rock Blast 
 - Scale Shot  
 - Close Combat  
 
@@ -23069,7 +23385,7 @@ Level: 84
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Dragon Dance  
 - Head Smash  
-- Scale Shot  
+- Draco Barrage
 - Close Combat  
 
 === [gen8rrdl] RandBats Boxes/Umbreon ===  
@@ -23082,7 +23398,7 @@ IVs: 0 Atk
 - Wish  
 - Protect  
 - Heal Bell  
-- Foul Play  
+- Toxic
 
 Umbreon @ Leftovers  
 Ability: Synchronize  
@@ -23098,7 +23414,7 @@ IVs: 0 Atk
 Ability: No Ability  
 Unfezant @ Heavy-Duty Boots  
 Ability: Super Luck  
-Level: 88  
+Level: 90 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Roost  
 - Night Slash  
@@ -23107,7 +23423,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Unfezant @ Scope Lens  
 Ability: Super Luck  
-Level: 88  
+Level: 90  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Drill Peck  
 - Drill Run  
@@ -23116,7 +23432,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Unfezant @ Choice Scarf  
 Ability: Super Luck  
-Level: 88  
+Level: 90
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - U-turn  
 - Night Slash  
@@ -23125,7 +23441,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Unfezant @ Choice Scarf  
 Ability: Super Luck  
-Level: 88  
+Level: 90 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Slash  
 - Night Slash  
@@ -23134,12 +23450,25 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 === [gen8rrdl] RandBats Boxes/Unown ===  
 Ability: No Ability  
-Unown @ Choice Specs  
-Ability: Levitate  
-Level: 90  
+All In On Red (Unown) @ Leppa Berry
+Ability: Simple
+Level: 94 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 0 Atk / 30 Spe  
-- Hidden Power [Psychic]  
+IVs: 0 Atk / 30 SpA / 30 Spe  
+- Forbidden Spell
+- Mystical Power
+- Hidden Power [Fire]
+- Ancient Power
+
+All In On Black (Unown) @ Leppa Berry
+Ability: Levitate  
+Level: 94  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 30 HP/ 0 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe  
+- Forbidden Spell
+- Mystical Power
+- Hidden Power [Fighting]
+- Ancient Power
 
 === [gen8rrdl] RandBats Boxes/Ursaluna ===  
 Ability: No Ability  
@@ -23160,6 +23489,33 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Headlong Rush  
 - Heat Crash  
 - Stealth Rock  
+
+Ursaluna-Bloodmoon @ Leftovers 
+Ability: Scrappy
+Level: 77 
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Blood Moon 
+- Calm Mind
+- Moonlight  
+- Earth Power
+
+Ursaluna-Bloodmoon @ Leftovers 
+Ability: Scrappy
+Level: 77 
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Blood Moon 
+- Calm Mind
+- Vacuum Wave 
+- Earth Power
+
+Ursaluna-Bloodmoon @ Choice Specs
+Ability: Scrappy
+Level: 77 
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Blood Moon 
+- Moonblast
+- Vacuum Wave 
+- Earth Power
 
 === [gen8rrdl] RandBats Boxes/Ursaring ===  
 Ability: No Ability  
@@ -23217,6 +23573,15 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Close Combat  
 - Shadow Sneak  
 - Swords Dance  
+
+Ursaring-Sevii @ Leftovers
+Ability: Iron Fist 
+Level: 84  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Shadow Punch 
+- Drain Punch
+- Shadow Sneak  
+- Bulk Up  
 
 === [gen8rrdl] RandBats Boxes/Urshifu ===  
 Ability: No Ability  
@@ -23283,8 +23648,28 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 IVs: 0 Atk  
 - Stealth Rock  
 - Memento  
-- Psychic  
+- Psychic Noise
 - Yawn  
+
+Uxie @ Leftovers
+Ability: Levitate  
+Level: 88  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Stealth Rock  
+- Knock Off
+- Psychic Noise
+- Yawn  
+
+Uxie @ Mental Herb  
+Ability: Levitate  
+Level: 88  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Stealth Rock  
+- U-turn
+- Psychic Noise
+- Thunder Wave
 
 === [gen8rrdl] RandBats Boxes/Vanilluxe ===  
 Ability: No Ability  
@@ -23423,15 +23808,25 @@ IVs: 0 Atk
 - Earth Power  
 - Synthesis  
 
+Venusaur-Mega @ Venusaurite  
+Ability: Chlorophyll  
+Level: 82  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Giga Drain  
+- Sludge Bomb  
+- Earth Power  
+- Leech Seed
+
 === [gen8rrdl] RandBats Boxes/Vespiquen ===  
 Ability: No Ability  
 Vespiquen @ Heavy-Duty Boots  
 Ability: Queenly Majesty  
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Toxic Spikes  
-- Roost  
-- Brave Bird  
+- Defog
+- Heal Order 
+- Attack Order
 - U-turn  
 
 Vespiquen @ Heavy-Duty Boots  
@@ -23439,9 +23834,9 @@ Ability: Queenly Majesty
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Toxic  
-- Roost  
-- Brave Bird  
-- U-turn  
+- Heal Order 
+- Defog  
+- Attack Order 
 
 === [gen8rrdl] RandBats Boxes/Victini ===  
 Ability: No Ability  
@@ -23503,6 +23898,26 @@ IVs: 0 Atk
 - Sludge Bomb  
 - Weather Ball  
 
+Victreebel @ Black Sludge
+Ability: Chlorophyll  
+Level: 88  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Toxic
+- Barb Barrage
+- Substitute
+- Strength Sap
+
+Victreebel @ Life Orb
+Ability: Chlorophyll  
+Level: 88  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Swords Dance
+- Power Whip
+- Gunk Shot
+- Knock Off
+
 === [gen8rrdl] RandBats Boxes/Vikavolt ===  
 Ability: No Ability  
 Vikavolt @ Choice Specs  
@@ -23512,7 +23927,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 IVs: 0 Atk  
 - Thunderbolt  
 - Volt Switch  
-- Bug Buzz  
+- Thunderclap
 - Energy Ball  
 
 Vikavolt @ Heavy-Duty Boots  
@@ -23532,7 +23947,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 IVs: 0 Atk  
 - Energy Ball  
 - Roost  
-- Bug Buzz  
+- Thunderclap
 - Thunderbolt  
 
 Vikavolt @ Heavy-Duty Boots  
@@ -23570,7 +23985,7 @@ IVs: 0 Atk
 === [gen8rrdl] RandBats Boxes/Virizion ===  
 Ability: No Ability  
 Virizion @ Life Orb  
-Ability: Blademaster  
+Ability: Sharpness  
 Level: 84  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Swords Dance  
@@ -23579,10 +23994,10 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Stone Edge  
 
 Virizion @ Choice Band  
-Ability: Justified  
+Ability: Sharpness 
 Level: 84  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Close Combat  
+- Sacred Sword 
 - Leaf Blade  
 - Stone Edge  
 - Megahorn  
@@ -23679,7 +24094,7 @@ Level: 80
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Quiver Dance  
-- Flamethrower  
+- Fiery Dance
 - Bug Buzz  
 - Giga Drain  
 
@@ -23689,9 +24104,29 @@ Level: 80
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Quiver Dance  
-- Flamethrower  
+- Fiery Dance 
 - Bug Buzz  
 - Roost  
+
+Volcarona @ Heavy-Duty Boots  
+Ability: Flame Body  
+Level: 80  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk / 30 SpA / 30 Spe
+- Quiver Dance  
+- Fiery Dance
+- Bug Buzz  
+- Hidden Power [Ground]
+
+Volcarona @ Heavy-Duty Boots  
+Ability: Flame Body  
+Level: 80  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk / 30 SpA / 30 Spe
+- Quiver Dance  
+- Fiery Dance
+- Roost
+- Hidden Power [Ground]
 
 === [gen8rrdl] RandBats Boxes/Wailord ===  
 Ability: No Ability  
@@ -23827,7 +24262,7 @@ IVs: 0 Atk
 - Toxic Spikes  
 
 Weezing @ Black Sludge  
-Ability: Neutralizing Gas  
+Ability: Toxic Debris 
 Level: 86  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
@@ -23835,16 +24270,6 @@ IVs: 0 Atk
 - Flamethrower  
 - Will-O-Wisp  
 - Pain Split  
-
-Weezing @ Black Sludge  
-Ability: Neutralizing Gas  
-Level: 86  
-EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 0 Atk  
-- Sludge Bomb  
-- Flamethrower  
-- Will-O-Wisp  
-- Toxic Spikes  
 
 Weezing-Galar @ Black Sludge  
 Ability: Neutralizing Gas  
@@ -23905,6 +24330,16 @@ IVs: 0 Atk
 - Strange Steam  
 - Will-O-Wisp  
 - Toxic Spikes  
+
+Weezing-Galar @ Choice Specs
+Ability: Misty Surge 
+Level: 86  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Sludge Bomb  
+- Strange Steam  
+- Fire Blast
+- Misty Explosion
 
 === [gen8rrdl] RandBats Boxes/Whimsicott ===  
 Ability: No Ability  
@@ -24031,16 +24466,6 @@ IVs: 0 Spe
 Wishiwashi-Sevii @ Leftovers  
 Ability: Schooling  
 Level: 88  
-EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 0 Atk  
-- Draco Meteor  
-- Shadow Ball  
-- Will-O-Wisp  
-- Nasty Plot  
-
-Wishiwashi-Sevii @ Leftovers  
-Ability: Schooling  
-Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Draco Meteor  
 - Poltergeist  
@@ -24069,11 +24494,21 @@ IVs: 0 Atk
 - Destiny Bond  
 - Encore  
 
+Wobbuffet @ Custap Berry
+Ability: Shadow Tag  
+Level: 88  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Counter  
+- Mirror Coat  
+- Destiny Bond  
+- Encore  
+
 === [gen8rrdl] RandBats Boxes/Wormadam ===  
 Ability: No Ability  
 Wormadam-Trash @ Leftovers  
 Ability: Overcoat  
-Level: 88  
+Level: 92  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Spe  
 - Stealth Rock  
@@ -24083,7 +24518,7 @@ IVs: 0 Spe
 
 Wormadam @ Heavy-Duty Boots  
 Ability: Overcoat  
-Level: 88  
+Level: 92 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 1 Atk / 30 SpA / 30 SpD  
 - Quiver Dance  
@@ -24093,7 +24528,7 @@ IVs: 1 Atk / 30 SpA / 30 SpD
 
 Wormadam-Sandy @ Leftovers  
 Ability: Overcoat  
-Level: 88  
+Level: 92 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Stealth Rock  
 - Toxic  
@@ -24102,7 +24537,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Wormadam-Sandy @ Heavy-Duty Boots  
 Ability: Overcoat  
-Level: 88  
+Level: 92  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Quiver Dance  
@@ -24112,25 +24547,25 @@ IVs: 0 Atk
 
 === [gen8rrdl-box] RandBats Boxes/Wyrdeer ===  
 Ability: No Ability  
-Wyrdeer @ Leftovers  
+Wyrdeer @ Chesto Berry 
 Ability: Fur Coat  
 Level: 86  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Stored Power  
-- Sleep Talk  
-- Rest  
+- Focus Blast
 - Calm Mind  
+- Rest  
 
-Wyrdeer @ Colbur Berry  
+Wyrdeer @ Assault Vest
 Ability: Fur Coat  
 Level: 86  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
-- Stored Power  
-- Focus Blast  
-- Calm Mind  
-- Rest  
+- Earthquake
+- Psyshield Bash
+- Focus Blast
+- Hyper Voice
 
 === [gen8rrdl-box] RandBats Boxes/Xatu ===  
 Ability: No Ability  
@@ -24253,7 +24688,7 @@ IVs: 0 Atk
 - Geomancy  
 - Moonblast  
 - Thunderbolt  
-- Focus Blast  
+- Draining Kiss 
 
 Xerneas @ Power Herb  
 Ability: Fairy Aura  
@@ -24263,7 +24698,7 @@ IVs: 0 Atk / 30 SpA / 30 Spe
 - Geomancy  
 - Moonblast  
 - Hidden Power [Fire]  
-- Thunderbolt  
+- Draining Kiss  
 
 Xerneas @ Power Herb  
 Ability: Fairy Aura  
@@ -24396,6 +24831,16 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Bug Buzz  
 - Giga Drain  
 - U-turn  
+
+Yanmega @ Throat Spray
+Ability: Speed Boost  
+Level: 86  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Protect  
+- Air Slash  
+- Bug Buzz  
+- Giga Drain  
 
 === [gen8rrdl-box] RandBats Boxes/Yveltal ===  
 Ability: No Ability  
@@ -24559,7 +25004,7 @@ Zamazenta-Crowned @ Rusted Shield
 Ability: Dauntless Shield  
 Level: 76  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Close Combat  
+- Body Press 
 - Behemoth Bash  
 - Wild Charge  
 - Ice Fang  
@@ -24644,6 +25089,24 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Crunch  
 - Psychic Fangs  
 - Bulk Up  
+
+Zamazenta @ Leftovers 
+Ability: Dauntless Shield  
+Level: 76  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Body Press  
+- Crunch  
+- Substitute 
+- Iron Defense
+
+Zamazenta @ Leftovers 
+Ability: Dauntless Shield  
+Level: 76  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Body Press  
+- Stone Edge
+- Substitute 
+- Iron Defense
 
 === [gen8rrdl-box] RandBats Boxes/Zacian ===  
 Ability: No Ability  
@@ -24809,32 +25272,14 @@ IVs: 0 Atk
 - Heat Wave  
 - Roost  
 
-Zapdos @ Sharp Beak  
+Zapdos @ Choice Scarf
 Ability: Static  
 Level: 80  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Bolt Beak  
 - Hurricane  
 - Toxic  
-- Roost  
-
-Zapdos-Galar @ Choice Band  
-Ability: Defiant  
-Level: 80  
-EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Close Combat  
-- Brave Bird  
-- U-turn  
-- Facade  
-
-Zapdos-Galar @ Choice Scarf  
-Ability: Defiant  
-Level: 80  
-EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Close Combat  
-- Brave Bird  
-- U-turn  
-- Facade  
+- Volt Switch 
 
 Zapdos-Galar @ Choice Band  
 Ability: Defiant  
@@ -24861,7 +25306,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Close Combat  
 - Brave Bird  
 - U-turn  
-- Thunderous Kick  
+- Knock Off 
 
 Zapdos-Galar @ Choice Scarf  
 Ability: Defiant  
@@ -24870,7 +25315,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Close Combat  
 - Brave Bird  
 - U-turn  
-- Thunderous Kick  
+- Knock Off
 
 Zapdos-Galar @ Life Orb  
 Ability: Defiant  
@@ -24952,6 +25397,15 @@ Level: 84
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Power Whip  
 - Knock Off  
+- Swords Dance
+- Close Combat  
+
+Zarude @ Heavy-Duty Boots  
+Ability: Defiant  
+Level: 84  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Power Whip  
+- Knock Off  
 - U-turn  
 - Jungle Healing  
 
@@ -25006,7 +25460,17 @@ IVs: 0 Atk / 30 SpA
 
 Zebstrika-Sevii @ Heavy-Duty Boots  
 Ability: Lightning Rod  
-Level: 82  
+Level: 87 
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Thunderbolt  
+- Ice Beam  
+- Freeze-Dry  
+- Volt Switch  
+
+Zebstrika-Sevii @ Choice Specs
+Ability: Lightning Rod  
+Level: 87
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Thunderbolt  
@@ -25016,7 +25480,7 @@ IVs: 0 Atk
 
 Zebstrika-Sevii @ Choice Specs  
 Ability: Illuminate  
-Level: 82  
+Level: 87  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Blizzard  
@@ -25102,7 +25566,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 Ability: No Ability  
 Zeraora @ Heavy-Duty Boots  
 Ability: Volt Absorb  
-Level: 82  
+Level: 82 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Plasma Fists  
 - Knock Off  
@@ -25111,7 +25575,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Zeraora @ Heavy-Duty Boots  
 Ability: Volt Absorb  
-Level: 82  
+Level: 82 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Plasma Fists  
 - Knock Off  
@@ -25120,7 +25584,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Zeraora @ Heavy-Duty Boots  
 Ability: Volt Absorb  
-Level: 82  
+Level: 82 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Plasma Fists  
 - Knock Off  
