@@ -283,6 +283,7 @@ Ability: No Ability
 
 Aipom @ Choice Band  
 Ability: Skill Link  
+Level: 97
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Tail Slap  
 - Beat Up  
@@ -291,6 +292,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Aipom @ Eviolite  
 Ability: Skill Link  
+Level: 97
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Beat Up  
 - Tail Slap  
@@ -517,7 +519,7 @@ IVs: 0 Atk
 
 Ambipom @ Choice Band  
 Ability: Skill Link  
-Level: 88  
+Level: 87 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 Serious Nature  
 - Arm Thrust  
@@ -527,7 +529,7 @@ Serious Nature
 
 Ambipom @ Choice Band  
 Ability: Technician  
-Level: 88  
+Level: 87  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Aerial Ace  
 - Arm Thrust  
@@ -536,7 +538,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Ambipom @ Silk Scarf  
 Ability: Technician  
-Level: 88  
+Level: 87  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Arm Thrust  
 - Fake Out  
@@ -545,7 +547,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Ambipom @ Silk Scarf  
 Ability: Technician  
-Level: 88  
+Level: 87  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Fake Out  
 - Last Resort 
@@ -2322,16 +2324,6 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 Blaziken-Mega @ Blazikenite  
 Ability: Speed Boost  
 Level: 76  
-EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 1 Atk  
-- Fire Blast  
-- Aura Sphere  
-- Scorching Sands  
-- Hidden Power [Ice]  
-
-Blaziken-Mega @ Blazikenite  
-Ability: Speed Boost  
-Level: 76  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 Serious Nature  
 - Work Up  
@@ -2931,7 +2923,7 @@ IVs: 0 Atk
 
 Calyrex-Ice @ Weakness Policy  
 Ability: As One (Glastrier)  
-Level: 76  
+Level: 75 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Trick Room  
 - Glacial Lance  
@@ -2940,7 +2932,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Calyrex-Ice @ Leftovers  
 Ability: As One (Glastrier)  
-Level: 76  
+Level: 75  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 Serious Nature  
 - Iron Defense  
@@ -2950,7 +2942,7 @@ Serious Nature
 
 Calyrex-Ice @ Weakness Policy  
 Ability: As One (Glastrier)  
-Level: 76  
+Level: 75  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Agility 
 - Glacial Lance  
