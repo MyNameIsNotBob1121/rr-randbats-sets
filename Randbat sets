@@ -7026,7 +7026,7 @@ IVs: 0 Atk
 - Body Press  
 - Draco Meteor  
 - Iron Defense  
-- Stealth Rocks
+- Stealth Rock
 
 Duraludon @ Eviolite  
 Ability: Heavy Metal  
@@ -7036,7 +7036,7 @@ IVs: 0 Atk
 - Body Press  
 - Draco Meteor  
 - Thunder Wave  
-- Stealth Rocks
+- Stealth Rock
 
 Duraludon @ Eviolite  
 Ability: Heavy Metal  
@@ -7046,7 +7046,7 @@ IVs: 0 Atk
 - Body Press  
 - Draco Meteor  
 - Toxic 
-- Stealth Rocks
+- Stealth Rock
 
 Duraludon @ Eviolite  
 Ability: Heavy Metal  
@@ -8291,6 +8291,42 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Aqua Jet  
 - Ice Punch  
 - Flip Turn  
+
+=== [gen8rrdl] RandBats Boxes/Floette ===  
+Ability: No Ability 
+
+Floette-Eternal @ Choice Specs  
+Ability: Natural Cure  
+Level: 84  
+Tera Type: Fairy  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Light of Ruin  
+- Moonblast  
+- Energy Ball  
+- Hidden Power [Ground]  
+
+Floette-Eternal @ Leftovers  
+Ability: Natural Cure  
+Level: 84  
+Tera Type: Fairy  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 1 Atk / 30 SpA / 30 SpD  
+- Calm Mind  
+- Moonblast  
+- Synthesis  
+- Hidden Power [Ground]  
+
+Floette-Eternal @ Choice Scarf  
+Ability: Natural Cure  
+Level: 84  
+Tera Type: Fairy  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Light of Ruin  
+- Moonblast  
+- Energy Ball  
+- Hidden Power [Ground]  
 
 === [gen8rrdl] RandBats Boxes/Florges ===  
 Ability: No Ability 
@@ -12835,6 +12871,7 @@ Ability: No Ability
 
 Kartana @ Choice Scarf  
 Ability: Beast Boost  
+Level: 75
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Leaf Blade  
 - Cut  
@@ -12842,7 +12879,8 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Knock Off  
 
 Kartana @ Life Orb  
-Ability: Beast Boost  
+Ability: Beast Boost 
+Level: 75
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Leaf Blade  
 - Sacred Sword  
@@ -12851,6 +12889,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Kartana @ Choice Band  
 Ability: Beast Boost  
+Level: 75
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Leaf Blade  
 - Sacred Sword  
@@ -12863,6 +12902,7 @@ Ability: No Ability
 
 Kecleon @ Assault Vest  
 Ability: Protean  
+Level: 92
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Shadow Sneak  
 - Knock Off  
@@ -12871,6 +12911,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Kecleon @ Leftovers  
 Ability: Protean  
+Level: 92
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Shadow Sneak  
 - Foul Play  
@@ -12882,6 +12923,7 @@ Ability: No Ability
 
 Keldeo @ Choice Scarf  
 Ability: Sharpness  
+Level: 82
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Secret Sword  
 - Hydro Pump  
@@ -12890,6 +12932,8 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Keldeo @ Leftovers  
 Ability: Sharpness 
+Level: 82
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Scald  
 - Secret Sword  
@@ -12898,6 +12942,7 @@ IVs: 0 Atk
 
 Keldeo @ Choice Specs  
 Ability: Sharpness 
+Level: 82
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Secret Sword  
 - Hydro Pump  
@@ -12909,6 +12954,7 @@ Ability: No Ability
 
 Kingdra @ Life Orb  
 Ability: Swift Swim  
+Level: 88
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Draco Barrage 
@@ -12918,6 +12964,7 @@ IVs: 0 Atk
 
 Kingdra @ Scope Lens  
 Ability: Sniper  
+Level: 88
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Hydro Pump  
@@ -12927,6 +12974,7 @@ IVs: 0 Atk
 
 Kingdra @ Scope Lens  
 Ability: Sniper  
+Level: 88
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Hydro Pump  
@@ -12939,6 +12987,7 @@ Ability: No Ability
 
 Kingler @ Choice Band  
 Ability: Sheer Force  
+Level: 84
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Liquidation  
 - Ice Hammer  
@@ -12947,6 +12996,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Kingler @ Life Orb  
 Ability: Sheer Force  
+Level: 84
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Liquidation  
 - Ice Hammer  
@@ -12955,6 +13005,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Kingler-Mega @ Kinglerite  
 Ability: Hyper Cutter  
+Level: 79
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Crabhammer  
 - Ice Hammer  
@@ -12963,6 +13014,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Kingler-Mega @ Kinglerite  
 Ability: Hyper Cutter  
+Level: 79
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Crabhammer  
 - Meteor Mash  
@@ -12971,6 +13023,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Kingler-Mega @ Kinglerite  
 Ability: Hyper Cutter  
+Level: 79
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Crabhammer  
 - Meteor Mash  
@@ -12982,14 +13035,16 @@ Ability: No Ability
 
 Kleavor @ Choice Band  
 Ability: Sharpness 
+Level: 79
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Accelerock  
 - Stone Axe  
 - Close Combat  
 - U-turn  
 
-Kleavor @ Hard Stone  
-Ability: Blademaster  
+Kleavor @ Heavy-Duty Boots 
+Ability: Sharpness
+Level: 79
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Accelerock  
 - Stone Axe 
@@ -12998,6 +13053,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Kleavor @ Choice Scarf 
 Ability: Sharpness 
+Level: 79
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - X-Scissor 
 - Stone Axe  
@@ -13006,6 +13062,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Kleavor @ Heavy-Duty Boots
 Ability: Sharpness 
+Level: 79
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Defog 
 - Stone Axe  
@@ -13017,6 +13074,7 @@ Ability: No Ability
 
 Klefki @ Leftovers  
 Ability: Prankster  
+Level: 89
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Play Rough  
 - Foul Play  
@@ -13025,6 +13083,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Klefki @ Light Clay  
 Ability: Prankster  
+Level: 89
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Play Rough  
 - Reflect  
@@ -13033,6 +13092,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Klefki @ Leftovers  
 Ability: Prankster  
+Level: 89
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Play Rough  
 - Magnet Rise  
@@ -13044,6 +13104,7 @@ Ability: No Ability
 
 Klinklang @ Life Orb  
 Ability: Steelworker  
+Level: 83
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Gear Grind  
 - Superpower  
@@ -13052,6 +13113,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Klinklang @ Leftovers  
 Ability: Steelworker  
+Level: 83
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Gear Grind  
 - Superpower  
@@ -13063,6 +13125,7 @@ Ability: No Ability
 
 Komala @ Assault Vest  
 Ability: Comatose  
+Level: 87
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Rapid Spin  
 - Return  
@@ -13071,6 +13134,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Komala @ Choice Band  
 Ability: Comatose  
+Level: 87
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Return  
 - Earthquake  
@@ -13079,6 +13143,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Komala @ Choice Band  
 Ability: Comatose  
+Level: 87
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Sleep Talk 
 - Last Resort  
@@ -13977,7 +14042,7 @@ Lycanroc @ Focus Sash
 Ability: Inner Focus  
 Level: 86  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Stealth Rocks 
+- Stealth Rock
 - Endeavor  
 - Accelerock  
 - Taunt 
@@ -22833,6 +22898,114 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Ice Beam  
 - Fire Blast  
 
+Tauros-Paldea-Aqua @ Leftovers  
+Ability: Intimidate  
+Level: 82  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Bulk Up  
+- Raging Bull  
+- Body Press  
+- Toxic  
+
+Tauros-Paldea-Aqua @ Leftovers  
+Ability: Intimidate  
+Level: 82  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Bulk Up  
+- Wave Crash  
+- Close Combat  
+- Earthquake  
+
+Tauros-Paldea-Aqua @ Figy Berry  
+Ability: Gluttony  
+Level: 82  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Bulk Up  
+- Wave Crash  
+- Close Combat  
+- Earthquake  
+
+Tauros-Paldea-Aqua @ Choice Band  
+Ability: Intimidate  
+Level: 82  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Aqua Jet  
+- Wave Crash  
+- Close Combat  
+- Earthquake  
+
+Tauros-Paldea-Aqua @ Salac Berry  
+Ability: Gluttony  
+Level: 82  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Bulk Up  
+- Raging Bull  
+- Close Combat  
+- Substitute  
+
+Tauros-Paldea-Blaze @ Choice Band  
+Ability: Intimidate  
+Level: 82  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Close Combat  
+- Flare Blitz  
+- Earthquake  
+- Stone Edge  
+
+Tauros-Paldea-Blaze @ Leftovers  
+Ability: Intimidate  
+Level: 82  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Bulk Up  
+- Trailblaze  
+- Raging Bull  
+- Close Combat  
+
+Tauros-Paldea-Blaze @ Iapapa Berry  
+Ability: Gluttony  
+Level: 82  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Bulk Up  
+- Trailblaze  
+- Raging Bull  
+- Close Combat  
+
+Tauros-Paldea-Blaze @ Choice Scarf  
+Ability: Intimidate  
+Level: 82  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Stone Edge  
+- Earthquake  
+- Flare Blitz  
+- Close Combat  
+
+Tauros-Paldea-Combat @ Choice Band  
+Ability: Intimidate  
+Level: 84  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Zen Headbutt  
+- Close Combat  
+- Rock Slide  
+- Earthquake  
+
+Tauros-Paldea-Combat @ Leftovers  
+Ability: Intimidate  
+Level: 84  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Bulk Up  
+- Raging Bull  
+- Trailblaze  
+- Earthquake  
+
+Tauros-Paldea-Combat @ Leftovers  
+Ability: Intimidate  
+Level: 84  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Bulk Up  
+- Raging Bull  
+- Trailblaze  
+- Stone Edge  
+
 === [gen8rrdl] RandBats Boxes/Tentacruel ===  
 Ability: No Ability  
 
@@ -23938,7 +24111,7 @@ IVs: 0 Atk / 30 SpA / 30 Spe
 - Ancient Power
 
 All In On Black (Unown) @ Leppa Berry
-Ability: Levitate  
+Ability: Simple
 Level: 94  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 30 HP/ 0 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe  
