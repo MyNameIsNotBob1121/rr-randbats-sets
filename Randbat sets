@@ -3629,6 +3629,7 @@ Cherrim @ Choice Scarf
 Ability: Flower Gift  
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 30 Spe
 - Healing Wish  
 - Hidden Power [Ice]  
 - Grav Apple  
@@ -7367,6 +7368,7 @@ Electrode @ Life Orb
 Ability: Galvanize  
 Level: 88  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk / 30 Def  
 - Explosion  
 - Hyper Voice  
 - Volt Switch  
@@ -7749,6 +7751,16 @@ IVs: 0 Atk
 - Recover  
 - Dynamax Cannon  
 - Toxic Spikes  
+- Flamethrower 
+
+Eternatus @ Eternamax Orb
+Ability: Pressure  
+Level: 65 
+EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk  
+- Recover  
+- Dynamax Cannon  
+- Toxic 
 - Flamethrower 
 
 Eternatus @ Eternamax Orb
@@ -8314,7 +8326,7 @@ Ability: Natural Cure
 Level: 84  
 Tera Type: Fairy  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 0 Atk  
+IVs: 1 Atk / 30 SpA / 30 SpD  
 - Light of Ruin  
 - Moonblast  
 - Energy Ball  
@@ -10537,6 +10549,7 @@ Greninja @ Life Orb
 Ability: Protean  
 Level: 80  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 30 Atk / 30 SpA / 30 Spe
 - Spikes  
 - Gunk Shot  
 - Ice Beam  
@@ -10870,6 +10883,7 @@ Groudon-Primal @ Red Orb
 Ability: Desolate Land  
 Level: 76  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk / 30 Def  
 - Rock Polish  
 - Fire Blast  
 - Precipice Blades  
@@ -11524,7 +11538,7 @@ Heliolisk @ Choice Scarf
 Ability: Dry Skin  
 Level: 88  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 0 Atk  
+IVs: 0 Atk / 30 Def  
 - Boomburst  
 - Thunderbolt  
 - Volt Switch  
@@ -12682,7 +12696,7 @@ Ability: Volt Absorb
 Level: 88  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 Serious Nature  
-IVs: 0 Atk  
+IVs: 0 Atk / 30 Def  
 - Thunderbolt  
 - Volt Switch  
 - Hidden Power [Ice]  
@@ -12692,7 +12706,7 @@ Jolteon @ Leftovers
 Ability: Volt Absorb  
 Level: 88  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 0 Atk  
+IVs: 0 Atk / 30 Def  
 - Thunderbolt  
 - Hidden Power [Ice]  
 - Substitute  
@@ -14387,7 +14401,7 @@ Manectric @ Choice Specs
 Ability: Intimidate  
 Level: 88  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 0 Atk  
+IVs: 0 Atk / 30 SpA
 - Thunderbolt  
 - Overheat  
 - Hidden Power [Grass]  
@@ -14397,7 +14411,7 @@ Manectric @ Choice Scarf
 Ability: Intimidate  
 Level: 88  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 0 Atk  
+IVs: 0 Atk 
 - Thunderbolt  
 - Overheat  
 - Volt Switch  
@@ -14407,7 +14421,7 @@ Manectric @ Choice Scarf
 Ability: Lightning Rod  
 Level: 88  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 0 Atk  
+IVs: 0 Atk / 30 SpA
 - Thunderbolt  
 - Overheat  
 - Hidden Power [Grass]  
@@ -18141,7 +18155,7 @@ Regieleki @ Magnet
 Ability: Transistor  
 Level: 80  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 30 Atk  
+IVs: 30 Atk / 30 Def
 - Thunderbolt  
 - Hidden Power [Ice]  
 - Volt Switch  
@@ -18161,7 +18175,7 @@ Regieleki @ Choice Specs
 Ability: Transistor  
 Level: 80  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 30 Atk  
+IVs: 30 Atk / 30 Def
 - Thunderbolt  
 - Hidden Power [Ice]  
 - Volt Switch  
@@ -19770,7 +19784,7 @@ Serperior @ Leftovers
 Ability: Contrary  
 Level: 80  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 0 Atk  
+IVs: 0 Atk / 30 SpA / 30 Spe
 - Leaf Storm  
 - Hidden Power [Fire]  
 - Substitute  
@@ -19780,7 +19794,7 @@ Serperior @ Leftovers
 Ability: Contrary  
 Level: 80  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 0 Atk  
+IVs: 0 Atk / 30 SpA / 30 Spe
 - Leaf Storm  
 - Hidden Power [Fire]  
 - Flash
@@ -22784,6 +22798,7 @@ Tapu Koko @ Heavy-Duty Boots
 Ability: Electric Surge  
 Level: 80  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 30 Atk / 30 Def
 - Thunderbolt  
 - Dazzling Gleam  
 - Hidden Power [Ice]  
@@ -23673,7 +23688,7 @@ Toxtricity @ Toxtricitite
 Ability: Punk Rock  
 Level: 76  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 0 Atk  
+IVs: 0 Atk / 30 SpA / 30 Spe  
 - Boomburst  
 - Overdrive  
 - Sludge Wave  
@@ -23904,7 +23919,7 @@ Typhlosion @ Choice Specs
 Ability: Blazing Soul  
 Level: 86  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 0 Atk  
+IVs: 0 Atk / 30 SpA
 - Eruption  
 - Flamethrower  
 - Scorching Sands  
@@ -23914,7 +23929,7 @@ Typhlosion @ Heavy-Duty Boots
 Ability: Blazing Soul  
 Level: 86  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 0 Atk  
+IVs: 0 Atk / 30 SpA
 - Eruption  
 - Flamethrower  
 - Scorching Sands  
@@ -27706,6 +27721,7 @@ Ability: Speed Boost
 Level: 83  
 Tera Type: Psychic  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 30 HP / 30 Def / 30 SpA / 30 SpD / 30 Spe 
 - U-turn  
 - Dazzling Gleam  
 - Hidden Power [Fighting]  
