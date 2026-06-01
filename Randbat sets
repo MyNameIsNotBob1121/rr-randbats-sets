@@ -17604,7 +17604,16 @@ IVs: 0 Atk / 30 Def
 - Hidden Power [Ice]  
 - Grass Knot  
 - Nasty Plot 
- 
+
+Raichu @ Life Orb 
+Ability: Lightning Rod  
+Level: 88  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 0 Atk / 30 Def  
+- Thunderclap 
+- Surf 
+- Hyper Voice 
+- Nasty Plot 
 
 Raichu @ Choice Specs  
 Ability: Lightning Rod  
