@@ -13109,7 +13109,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 Ability: No Ability  
 
 Klinklang @ Life Orb  
-Ability: Steelworker  
+Ability: Steely Spirit
 Level: 83
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Gear Grind  
@@ -13118,7 +13118,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Shift Gear  
 
 Klinklang @ Leftovers  
-Ability: Steelworker  
+Ability: Steely Spirit
 Level: 83
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Gear Grind  
@@ -25704,7 +25704,7 @@ Ability: No Ability
 
 Zamazenta-Crowned @ Rusted Shield  
 Ability: Dauntless Shield  
-Level: 76  
+Level: 73  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Body Press 
 - Behemoth Bash  
@@ -25713,7 +25713,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Zamazenta-Crowned @ Rusted Shield  
 Ability: Dauntless Shield  
-Level: 76  
+Level: 73  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Bulk Up  
 - Body Press  
@@ -25722,7 +25722,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Zamazenta-Crowned @ Rusted Shield  
 Ability: Dauntless Shield  
-Level: 76  
+Level: 73 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Bulk Up  
 - Close Combat  
@@ -25731,7 +25731,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Zamazenta-Crowned @ Rusted Shield  
 Ability: Dauntless Shield  
-Level: 76  
+Level: 73 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Behemoth Bash  
 - Close Combat  
@@ -25740,7 +25740,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Zamazenta-Crowned @ Rusted Shield  
 Ability: Dauntless Shield  
-Level: 76  
+Level: 73 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Behemoth Bash  
 - Body Press  
@@ -25749,7 +25749,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Zamazenta-Crowned @ Rusted Shield  
 Ability: Dauntless Shield  
-Level: 76  
+Level: 73 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Behemoth Bash  
 - Body Press  
@@ -25758,7 +25758,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Zamazenta-Crowned @ Rusted Shield  
 Ability: Dauntless Shield  
-Level: 76  
+Level: 73
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Behemoth Bash  
 - Body Press  
@@ -25767,7 +25767,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Zamazenta @ Choice Band  
 Ability: Dauntless Shield  
-Level: 76  
+Level: 73 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Close Combat  
 - Crunch  
@@ -25776,7 +25776,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Zamazenta @ Choice Scarf  
 Ability: Dauntless Shield  
-Level: 76  
+Level: 73  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Close Combat  
 - Crunch  
@@ -25785,7 +25785,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Zamazenta @ Life Orb  
 Ability: Dauntless Shield  
-Level: 76  
+Level: 73  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Close Combat  
 - Crunch  
@@ -25794,7 +25794,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Zamazenta @ Leftovers 
 Ability: Dauntless Shield  
-Level: 76  
+Level: 73
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Body Press  
 - Crunch  
@@ -25803,7 +25803,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Zamazenta @ Leftovers 
 Ability: Dauntless Shield  
-Level: 76  
+Level: 73  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Body Press  
 - Stone Edge
@@ -25815,7 +25815,7 @@ Ability: No Ability
 
 Zacian-Crowned @ Rusted Sword  
 Ability: Intrepid Sword  
-Level: 76  
+Level: 73 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Swords Dance  
 - Behemoth Blade  
@@ -25824,7 +25824,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Zacian-Crowned @ Rusted Sword  
 Ability: Intrepid Sword  
-Level: 76  
+Level: 73 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Behemoth Blade  
 - Play Rough  
@@ -25833,7 +25833,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Zacian-Crowned @ Rusted Sword  
 Ability: Intrepid Sword  
-Level: 76  
+Level: 73 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Behemoth Blade  
 - Close Combat  
@@ -25842,7 +25842,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Zacian @ Choice Band  
 Ability: Intrepid Sword  
-Level: 76  
+Level: 73  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Play Rough  
 - Close Combat  
@@ -25851,7 +25851,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Zacian @ Choice Band  
 Ability: Intrepid Sword  
-Level: 76  
+Level: 73
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Play Rough  
 - Close Combat  
@@ -25860,7 +25860,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Zacian @ Choice Scarf  
 Ability: Intrepid Sword  
-Level: 76  
+Level: 73 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Play Rough  
 - Close Combat  
@@ -25869,7 +25869,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Zacian @ Choice Scarf  
 Ability: Intrepid Sword  
-Level: 76  
+Level: 73
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Play Rough  
 - Close Combat  
@@ -25878,7 +25878,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Zacian @ Life Orb  
 Ability: Intrepid Sword  
-Level: 76  
+Level: 73
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Swords Dance  
 - Play Rough  
@@ -25887,7 +25887,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Zacian @ Leftovers  
 Ability: Intrepid Sword  
-Level: 76  
+Level: 73
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Substitute  
 - Swords Dance  
