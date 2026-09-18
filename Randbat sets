@@ -17041,7 +17041,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Pinsir-Mega @ Pinsirite  
 Ability: Hyper Cutter  
-Level: 78  
+Level: 73 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Swords Dance  
 - Return  
@@ -17050,7 +17050,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Pinsir-Mega @ Pinsirite  
 Ability: Hyper Cutter  
-Level: 78 
+Level: 73 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Swords Dance  
 - Return  
@@ -17059,7 +17059,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Pinsir-Mega @ Pinsirite  
 Ability: Hyper Cutter  
-Level: 78  
+Level: 73 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Swords Dance  
 - Megahorn  
@@ -17480,15 +17480,15 @@ IVs: 0 Atk
 - Soak  
 - Mirror Coat  
 
-God's Little Boy (Pyukumuku) @ Light Clay
+God's Favorite Boy (Pyukumuku) @ Light Clay  
 Ability: Unaware  
-Level: 90  
+Level: 90 
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Recover  
-- Light Screen
-- Reflect 
-- Toxic  
+- Light Screen  
+- Reflect  
+- Toxic
 
 === [gen8rrdl] RandBats Boxes/Quagsire ===  
 Ability: No Ability  
@@ -24087,7 +24087,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 === [gen8rrdl] RandBats Boxes/Unown ===  
 Ability: No Ability 
 
-All In On Red (Unown) @ Leppa Berry
+Unown @ Leppa Berry
 Ability: Simple
 Level: 94 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
@@ -24097,7 +24097,7 @@ IVs: 0 Atk / 30 SpA / 30 Spe
 - Hidden Power [Fire]
 - Ancient Power
 
-All In On Black (Unown) @ Leppa Berry
+Unown @ Leppa Berry
 Ability: Simple
 Level: 94  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
