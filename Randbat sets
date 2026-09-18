@@ -6605,15 +6605,6 @@ Drednaw @ Life Orb
 Ability: Swift Swim  
 Level: 82  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-- Rain Dance
-- Liquidation  
-- Stone Edge  
-- Shell Smash  
-
-Drednaw @ Life Orb  
-Ability: Swift Swim  
-Level: 82  
-EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Rain Dance  
 - Liquidation  
 - Stone Edge  
@@ -6626,11 +6617,11 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Aqua Fang  
 - Stone Edge  
 - Earthquake  
-- Ice Fang  
+- Flip Turn
 
 Drednaw @ Drednawite  
 Ability: Shell Armor  
-Level: 76  
+Level: 73  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Shell Smash  
 - Aqua Fang  
@@ -6654,6 +6645,15 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 - Aqua Fang  
 - Jaw Lock  
 - Ice Fang  
+
+Drednaw @ Drednawite  
+Ability: Shell Armor  
+Level: 76  
+EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+- Stealth Rock  
+- Aqua Fang  
+- Jaw Lock  
+- Flip Turn  
 
 Drednaw @ Drednawite  
 Ability: Shell Armor  
@@ -24767,7 +24767,7 @@ Volcarona @ Heavy-Duty Boots
 Ability: Flame Body  
 Level: 80  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 0 Atk / 30 SpA / 30 Spe
+IVs: 1 Atk / 30 SpA / 30 SpD
 - Quiver Dance  
 - Fiery Dance
 - Bug Buzz  
@@ -24777,7 +24777,7 @@ Volcarona @ Heavy-Duty Boots
 Ability: Flame Body  
 Level: 80  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 0 Atk / 30 SpA / 30 Spe
+IVs: 1 Atk / 30 SpA / 30 SpD
 - Quiver Dance  
 - Fiery Dance
 - Roost
@@ -26495,7 +26495,7 @@ Ability: No Ability
 
 Enamorus @ Choice Specs  
 Ability: Contrary  
-Level: 76  
+Level: 68  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Fleur Cannon  
 - Earth Power  
@@ -26504,7 +26504,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Enamorus @ Choice Scarf  
 Ability: Contrary  
-Level: 76  
+Level: 68 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Fleur Cannon  
 - Earth Power  
@@ -26513,7 +26513,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Enamorus @ Life Orb  
 Ability: Contrary  
-Level: 76  
+Level: 68  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Fleur Cannon  
 - Earth Power  
@@ -26522,7 +26522,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Enamorus @ Heavy-Duty Boots  
 Ability: Contrary  
-Level: 76  
+Level: 73 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Play Rough  
 - Superpower  
