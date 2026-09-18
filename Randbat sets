@@ -2181,7 +2181,7 @@ Ability: No Ability
 
 Blastoise @ White Herb  
 Ability: Torrent  
-Level: 86  
+Level: 83  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Shell Smash  
@@ -2191,7 +2191,7 @@ IVs: 0 Atk
 
 Blastoise @ White Herb  
 Ability: Torrent  
-Level: 86  
+Level: 83 
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Shell Smash  
 - Hydro Pump  
@@ -2200,7 +2200,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Blastoise @ White Herb  
 Ability: Torrent  
-Level: 86  
+Level: 83  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Shell Smash  
 - Aqua Tail  
@@ -2209,7 +2209,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Blastoise @ Leftovers  
 Ability: Rain Dish  
-Level: 86  
+Level: 83  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Scald  
 - Rapid Spin  
@@ -2218,7 +2218,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Blastoise @ Heavy-Duty Boots  
 Ability: Torrent  
-Level: 86  
+Level: 83  
 EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 - Scald  
 - Rapid Spin  
@@ -2227,7 +2227,7 @@ EVs: 85 HP / 85 Atk / 85 Def / 85 SpA / 85 SpD / 85 Spe
 
 Blastoise-Mega @ Blastoisinite  
 Ability: Rain Dish  
-Level: 76  
+Level: 74 
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Shell Smash  
@@ -2237,7 +2237,7 @@ IVs: 0 Atk
 
 Blastoise-Mega @ Blastoisinite  
 Ability: Rain Dish  
-Level: 76  
+Level: 74  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
 IVs: 0 Atk  
 - Shell Smash  
