@@ -6680,7 +6680,7 @@ Drifblim @ Flame Orb
 Ability: Flare Boost  
 Level: 88  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 1 Atk  
+IVs: 31 HP / 1 Atk / 30 Def / 30 SpA /30 SpD / 30 Spe
 - Shadow Ball  
 - Hurricane  
 - Hidden Power [Fighting]  
@@ -6710,7 +6710,7 @@ Drifblim @ Flame Orb
 Ability: Flare Boost  
 Level: 88  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 1 Atk  
+IVs: 31 HP / 1 Atk / 30 Def / 30 SpA /30 SpD / 30 Spe
 - Shadow Ball  
 - Hurricane  
 - Hidden Power [Fighting]  
@@ -6730,7 +6730,7 @@ Drifblim @ Sitrus Berry
 Ability: Unburden  
 Level: 88  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
-IVs: 1 Atk  
+IVs: 31 HP / 1 Atk / 30 Def / 30 SpA /30 SpD / 30 Spe
 - Strength Sap 
 - Nasty Plot  
 - Shadow Ball  
@@ -6750,6 +6750,7 @@ Drifblim @ Sitrus Berry
 Ability: Unburden  
 Level: 88  
 EVs: 85 HP / 85 Def / 85 SpA / 85 SpD / 85 Spe  
+IVs: 31 HP / 1 Atk / 30 Def / 30 SpA /30 SpD / 30 Spe
 - Substitute  
 - Calm Mind  
 - Shadow Ball  
